@@ -1,0 +1,5000 @@
+GetLocal 92672
+GetGlobalHighestCommittedVersion 159030
+Get 159870
+GetErasureEncode 729652
+main Get 823399
+GetLocal 72837
+GetGlobalHighestCommittedVersion 83353
+Get 83444
+GetErasureEncode 555514
+main Get 629135
+GetLocal 69572
+GetGlobalHighestCommittedVersion 81789
+Get 81884
+GetErasureEncode 453806
+main Get 524042
+GetLocal 68090
+GetGlobalHighestCommittedVersion 75300
+Get 75374
+GetErasureEncode 257569
+main Get 326287
+GetLocal 54957
+GetGlobalHighestCommittedVersion 77797
+Get 78460
+GetErasureEncode 387161
+main Get 442805
+GetLocal 18954
+GetGlobalHighestCommittedVersion 83651
+Get 83850
+GetErasureEncode 252893
+main Get 272432
+GetLocal 33747
+GetGlobalHighestCommittedVersion 88559
+Get 88624
+GetErasureEncode 238016
+main Get 271968
+GetLocal 33245
+GetGlobalHighestCommittedVersion 82342
+Get 82404
+GetErasureEncode 240965
+main Get 275036
+GetLocal 37122
+GetGlobalHighestCommittedVersion 73053
+Get 73309
+GetErasureEncode 307400
+main Get 345133
+GetLocal 25555
+GetGlobalHighestCommittedVersion 40040
+Get 40194
+GetErasureEncode 268448
+main Get 294627
+GetLocal 55634
+GetGlobalHighestCommittedVersion 93490
+Get 93571
+GetErasureEncode 215599
+main Get 271840
+GetLocal 18582
+GetGlobalHighestCommittedVersion 117991
+Get 118059
+GetErasureEncode 356049
+main Get 375219
+GetLocal 19303
+GetGlobalHighestCommittedVersion 42066
+Get 42228
+GetErasureEncode 1009058
+main Get 1028838
+GetLocal 19793
+GetGlobalHighestCommittedVersion 40475
+Get 40559
+GetErasureEncode 588816
+main Get 609123
+GetLocal 22506
+GetGlobalHighestCommittedVersion 57539
+Get 57616
+GetErasureEncode 781004
+main Get 804134
+GetLocal 22907
+GetGlobalHighestCommittedVersion 36606
+Get 36666
+GetErasureEncode 606089
+main Get 629586
+GetLocal 33076
+GetGlobalHighestCommittedVersion 68303
+Get 68403
+GetErasureEncode 940352
+main Get 974020
+GetLocal 21602
+GetGlobalHighestCommittedVersion 74518
+Get 74841
+GetErasureEncode 519915
+main Get 542134
+GetLocal 54479
+GetGlobalHighestCommittedVersion 49593
+Get 49784
+GetErasureEncode 292845
+main Get 347919
+GetLocal 40599
+GetGlobalHighestCommittedVersion 37386
+Get 37449
+GetErasureEncode 335168
+main Get 376350
+GetLocal 23252
+GetGlobalHighestCommittedVersion 39690
+Get 39752
+GetErasureEncode 188225
+main Get 212070
+GetLocal 18748
+GetGlobalHighestCommittedVersion 82696
+Get 83155
+GetErasureEncode 316156
+main Get 335523
+GetLocal 18962
+GetGlobalHighestCommittedVersion 37360
+Get 37432
+GetErasureEncode 307501
+main Get 327026
+GetLocal 22960
+GetGlobalHighestCommittedVersion 87303
+Get 87370
+GetErasureEncode 160889
+main Get 184398
+GetLocal 19173
+GetGlobalHighestCommittedVersion 39661
+Get 39788
+GetErasureEncode 205684
+main Get 225410
+GetLocal 19769
+GetGlobalHighestCommittedVersion 37989
+Get 38051
+GetErasureEncode 566757
+main Get 587182
+GetLocal 22937
+GetGlobalHighestCommittedVersion 83854
+Get 83935
+GetErasureEncode 321392
+main Get 344930
+GetLocal 19883
+GetGlobalHighestCommittedVersion 37604
+Get 37674
+GetErasureEncode 381678
+main Get 402182
+GetLocal 20536
+GetGlobalHighestCommittedVersion 36634
+Get 36705
+GetErasureEncode 291272
+main Get 312421
+GetLocal 18040
+GetGlobalHighestCommittedVersion 37345
+Get 37409
+GetErasureEncode 216033
+main Get 234645
+GetLocal 20534
+GetGlobalHighestCommittedVersion 39044
+Get 39294
+GetErasureEncode 362473
+main Get 383627
+GetLocal 34720
+GetGlobalHighestCommittedVersion 38648
+Get 38729
+GetErasureEncode 375716
+main Get 413130
+GetLocal 20648
+GetGlobalHighestCommittedVersion 74574
+Get 74649
+GetErasureEncode 351499
+main Get 372809
+GetLocal 23105
+GetGlobalHighestCommittedVersion 39585
+Get 40703
+GetErasureEncode 364658
+main Get 388402
+GetLocal 18555
+GetGlobalHighestCommittedVersion 37923
+Get 38098
+GetErasureEncode 170527
+main Get 189715
+GetLocal 21303
+GetGlobalHighestCommittedVersion 43925
+Get 44041
+GetErasureEncode 273233
+main Get 295165
+GetLocal 19585
+GetGlobalHighestCommittedVersion 37556
+Get 37633
+GetErasureEncode 230767
+main Get 250989
+GetLocal 18223
+GetGlobalHighestCommittedVersion 89705
+Get 89773
+GetErasureEncode 178991
+main Get 197843
+GetLocal 21951
+GetGlobalHighestCommittedVersion 38405
+Get 38483
+GetErasureEncode 159682
+main Get 182238
+GetLocal 18151
+GetGlobalHighestCommittedVersion 45215
+Get 45302
+GetErasureEncode 1077711
+main Get 1096318
+GetLocal 20402
+GetGlobalHighestCommittedVersion 41469
+Get 41549
+GetErasureEncode 437053
+main Get 457925
+GetLocal 18749
+GetGlobalHighestCommittedVersion 39009
+Get 39081
+GetErasureEncode 188488
+main Get 207800
+GetLocal 20441
+GetGlobalHighestCommittedVersion 44609
+Get 44687
+GetErasureEncode 184950
+main Get 206013
+GetLocal 17840
+GetGlobalHighestCommittedVersion 40516
+Get 40624
+GetErasureEncode 402993
+main Get 421394
+GetLocal 20142
+GetGlobalHighestCommittedVersion 53750
+Get 53884
+GetErasureEncode 158077
+main Get 178953
+GetLocal 20332
+GetGlobalHighestCommittedVersion 37100
+Get 37164
+GetErasureEncode 328445
+main Get 349358
+GetLocal 19593
+GetGlobalHighestCommittedVersion 37747
+Get 37931
+GetErasureEncode 157811
+main Get 177976
+GetLocal 17575
+GetGlobalHighestCommittedVersion 38684
+Get 38759
+GetErasureEncode 157706
+main Get 175860
+GetLocal 17608
+GetGlobalHighestCommittedVersion 38523
+Get 38782
+GetErasureEncode 157139
+main Get 175321
+GetLocal 18475
+GetGlobalHighestCommittedVersion 47628
+Get 47862
+GetErasureEncode 157630
+main Get 176553
+GetLocal 18283
+GetGlobalHighestCommittedVersion 46017
+Get 46083
+GetErasureEncode 155843
+main Get 174631
+GetLocal 19895
+GetGlobalHighestCommittedVersion 38818
+Get 38930
+GetErasureEncode 409038
+main Get 429266
+GetLocal 17259
+GetGlobalHighestCommittedVersion 52794
+Get 52868
+GetErasureEncode 158180
+main Get 175930
+GetLocal 19698
+GetGlobalHighestCommittedVersion 40022
+Get 40094
+GetErasureEncode 283828
+main Get 304110
+GetLocal 15547
+GetGlobalHighestCommittedVersion 37806
+Get 37872
+GetErasureEncode 222833
+main Get 238949
+GetLocal 15688
+GetGlobalHighestCommittedVersion 50445
+Get 50578
+GetErasureEncode 157539
+main Get 173818
+GetLocal 17436
+GetGlobalHighestCommittedVersion 67102
+Get 67179
+GetErasureEncode 334337
+main Get 352355
+GetLocal 16645
+GetGlobalHighestCommittedVersion 36759
+Get 36821
+GetErasureEncode 165696
+main Get 182921
+GetLocal 13163
+GetGlobalHighestCommittedVersion 38708
+Get 39366
+GetErasureEncode 178450
+main Get 192193
+GetLocal 22259
+GetGlobalHighestCommittedVersion 40953
+Get 41028
+GetErasureEncode 162438
+main Get 185298
+GetLocal 15766
+GetGlobalHighestCommittedVersion 74268
+Get 74707
+GetErasureEncode 208648
+main Get 225004
+GetLocal 13074
+GetGlobalHighestCommittedVersion 56566
+Get 59190
+GetErasureEncode 399995
+main Get 413688
+GetLocal 14662
+GetGlobalHighestCommittedVersion 40204
+Get 40270
+GetErasureEncode 552787
+main Get 568122
+GetLocal 22154
+GetGlobalHighestCommittedVersion 68118
+Get 68320
+GetErasureEncode 212837
+main Get 235577
+GetLocal 13000
+GetGlobalHighestCommittedVersion 40394
+Get 40571
+GetErasureEncode 176126
+main Get 189687
+GetLocal 21869
+GetGlobalHighestCommittedVersion 42021
+Get 42086
+GetErasureEncode 223634
+main Get 246085
+GetLocal 13961
+GetGlobalHighestCommittedVersion 38767
+Get 39124
+GetErasureEncode 170150
+main Get 184717
+GetLocal 14325
+GetGlobalHighestCommittedVersion 39011
+Get 39262
+GetErasureEncode 159035
+main Get 173970
+GetLocal 14902
+GetGlobalHighestCommittedVersion 38362
+Get 38424
+GetErasureEncode 156697
+main Get 172187
+GetLocal 19069
+GetGlobalHighestCommittedVersion 36611
+Get 36789
+GetErasureEncode 178597
+main Get 198249
+GetLocal 14681
+GetGlobalHighestCommittedVersion 38898
+Get 38964
+GetErasureEncode 267172
+main Get 282227
+GetLocal 16297
+GetGlobalHighestCommittedVersion 56995
+Get 57114
+GetErasureEncode 160698
+main Get 177477
+GetLocal 23258
+GetGlobalHighestCommittedVersion 35606
+Get 35670
+GetErasureEncode 393747
+main Get 417478
+GetLocal 26601
+GetGlobalHighestCommittedVersion 42642
+Get 42712
+GetErasureEncode 215206
+main Get 242246
+GetLocal 15340
+GetGlobalHighestCommittedVersion 87610
+Get 87711
+GetErasureEncode 385041
+main Get 400851
+GetLocal 12330
+GetGlobalHighestCommittedVersion 47279
+Get 47344
+GetErasureEncode 176128
+main Get 188986
+GetLocal 12614
+GetGlobalHighestCommittedVersion 40120
+Get 40186
+GetErasureEncode 156173
+main Get 169311
+GetLocal 16690
+GetGlobalHighestCommittedVersion 38033
+Get 38093
+GetErasureEncode 156305
+main Get 173456
+GetLocal 17600
+GetGlobalHighestCommittedVersion 35680
+Get 35744
+GetErasureEncode 166804
+main Get 184864
+GetLocal 14464
+GetGlobalHighestCommittedVersion 42457
+Get 42524
+GetErasureEncode 156897
+main Get 171924
+GetLocal 18187
+GetGlobalHighestCommittedVersion 39535
+Get 39597
+GetErasureEncode 158588
+main Get 177335
+GetLocal 17274
+GetGlobalHighestCommittedVersion 69066
+Get 69920
+GetErasureEncode 158671
+main Get 176431
+GetLocal 20422
+GetGlobalHighestCommittedVersion 73228
+Get 73633
+GetErasureEncode 157902
+main Get 178825
+GetLocal 19283
+GetGlobalHighestCommittedVersion 37518
+Get 37609
+GetErasureEncode 220120
+main Get 239805
+GetLocal 14588
+GetGlobalHighestCommittedVersion 37532
+Get 37600
+GetErasureEncode 160203
+main Get 175276
+GetLocal 12570
+GetGlobalHighestCommittedVersion 40624
+Get 40693
+GetErasureEncode 201343
+main Get 214436
+GetLocal 17030
+GetGlobalHighestCommittedVersion 38806
+Get 38993
+GetErasureEncode 182825
+main Get 200408
+GetLocal 11684
+GetGlobalHighestCommittedVersion 39812
+Get 39873
+GetErasureEncode 186452
+main Get 198716
+GetLocal 15721
+GetGlobalHighestCommittedVersion 47880
+Get 47945
+GetErasureEncode 393044
+main Get 409287
+GetLocal 44536
+GetGlobalHighestCommittedVersion 46316
+Get 46440
+GetErasureEncode 157731
+main Get 202853
+GetLocal 20517
+GetGlobalHighestCommittedVersion 38239
+Get 38301
+GetErasureEncode 159307
+main Get 180440
+GetLocal 26953
+GetGlobalHighestCommittedVersion 45142
+Get 45401
+GetErasureEncode 158794
+main Get 186369
+GetLocal 17351
+GetGlobalHighestCommittedVersion 38789
+Get 38863
+GetErasureEncode 156982
+main Get 174927
+GetLocal 15794
+GetGlobalHighestCommittedVersion 56603
+Get 56668
+GetErasureEncode 302439
+main Get 318827
+GetLocal 16770
+GetGlobalHighestCommittedVersion 47978
+Get 48431
+GetErasureEncode 158175
+main Get 175562
+GetLocal 17047
+GetGlobalHighestCommittedVersion 40552
+Get 40619
+GetErasureEncode 199675
+main Get 217329
+GetLocal 15389
+GetGlobalHighestCommittedVersion 43239
+Get 43302
+GetErasureEncode 158240
+main Get 174210
+GetLocal 15461
+GetGlobalHighestCommittedVersion 98373
+Get 98459
+GetErasureEncode 159860
+main Get 175963
+GetLocal 19948
+GetGlobalHighestCommittedVersion 38857
+Get 39190
+GetErasureEncode 158861
+main Get 179422
+GetLocal 16861
+GetGlobalHighestCommittedVersion 56840
+Get 56963
+GetErasureEncode 216479
+main Get 233951
+GetLocal 15810
+GetGlobalHighestCommittedVersion 40417
+Get 40498
+GetErasureEncode 157082
+main Get 173457
+GetLocal 24746
+GetGlobalHighestCommittedVersion 39329
+Get 39396
+GetErasureEncode 180990
+main Get 206327
+GetLocal 19103
+GetGlobalHighestCommittedVersion 38675
+Get 38736
+GetErasureEncode 184343
+main Get 204021
+GetLocal 15928
+GetGlobalHighestCommittedVersion 40569
+Get 40630
+GetErasureEncode 157306
+main Get 173799
+GetLocal 14641
+GetGlobalHighestCommittedVersion 40494
+Get 40569
+GetErasureEncode 265199
+main Get 280427
+GetLocal 16646
+GetGlobalHighestCommittedVersion 41678
+Get 42091
+GetErasureEncode 178486
+main Get 195702
+GetLocal 15645
+GetGlobalHighestCommittedVersion 37645
+Get 37709
+GetErasureEncode 169577
+main Get 185773
+GetLocal 17558
+GetGlobalHighestCommittedVersion 37101
+Get 37166
+GetErasureEncode 167445
+main Get 185487
+GetLocal 17447
+GetGlobalHighestCommittedVersion 41992
+Get 42057
+GetErasureEncode 295210
+main Get 313101
+GetLocal 16851
+GetGlobalHighestCommittedVersion 36480
+Get 36545
+GetErasureEncode 157950
+main Get 175289
+GetLocal 18487
+GetGlobalHighestCommittedVersion 34361
+Get 34429
+GetErasureEncode 1928768
+main Get 1947897
+GetLocal 18544
+GetGlobalHighestCommittedVersion 40018
+Get 40512
+GetErasureEncode 592721
+main Get 611882
+GetLocal 18976
+GetGlobalHighestCommittedVersion 37243
+Get 37307
+GetErasureEncode 288409
+main Get 308106
+GetLocal 17207
+GetGlobalHighestCommittedVersion 36196
+Get 36264
+GetErasureEncode 160417
+main Get 178204
+GetLocal 23126
+GetGlobalHighestCommittedVersion 56051
+Get 56115
+GetErasureEncode 228046
+main Get 251746
+GetLocal 18638
+GetGlobalHighestCommittedVersion 37495
+Get 37556
+GetErasureEncode 250264
+main Get 269486
+GetLocal 20350
+GetGlobalHighestCommittedVersion 31484
+Get 31550
+GetErasureEncode 421471
+main Get 442422
+GetLocal 18144
+GetGlobalHighestCommittedVersion 34605
+Get 34670
+GetErasureEncode 327679
+main Get 346419
+GetLocal 20026
+GetGlobalHighestCommittedVersion 37164
+Get 37225
+GetErasureEncode 401949
+main Get 422495
+GetLocal 16616
+GetGlobalHighestCommittedVersion 32359
+Get 32425
+GetErasureEncode 158553
+main Get 175727
+GetLocal 18363
+GetGlobalHighestCommittedVersion 47069
+Get 47128
+GetErasureEncode 157893
+main Get 176798
+GetLocal 15453
+GetGlobalHighestCommittedVersion 37333
+Get 38039
+GetErasureEncode 159867
+main Get 175526
+GetLocal 13254
+GetGlobalHighestCommittedVersion 36224
+Get 36297
+GetErasureEncode 259919
+main Get 273707
+GetLocal 14574
+GetGlobalHighestCommittedVersion 39963
+Get 40219
+GetErasureEncode 161407
+main Get 176541
+GetLocal 13430
+GetGlobalHighestCommittedVersion 39306
+Get 39741
+GetErasureEncode 177943
+main Get 191912
+GetLocal 14007
+GetGlobalHighestCommittedVersion 31388
+Get 31449
+GetErasureEncode 192062
+main Get 206513
+GetLocal 11273
+GetGlobalHighestCommittedVersion 40109
+Get 43546
+GetErasureEncode 335380
+main Get 347243
+GetLocal 12019
+GetGlobalHighestCommittedVersion 36724
+Get 36795
+GetErasureEncode 399347
+main Get 411944
+GetLocal 22235
+GetGlobalHighestCommittedVersion 38160
+Get 38226
+GetErasureEncode 169660
+main Get 192396
+GetLocal 15039
+GetGlobalHighestCommittedVersion 38911
+Get 39154
+GetErasureEncode 158808
+main Get 174444
+GetLocal 13494
+GetGlobalHighestCommittedVersion 40950
+Get 41018
+GetErasureEncode 157143
+main Get 171175
+GetLocal 16329
+GetGlobalHighestCommittedVersion 48748
+Get 48941
+GetErasureEncode 156774
+main Get 173656
+GetLocal 17168
+GetGlobalHighestCommittedVersion 31927
+Get 31989
+GetErasureEncode 154770
+main Get 172400
+GetLocal 24814
+GetGlobalHighestCommittedVersion 32255
+Get 32320
+GetErasureEncode 156956
+main Get 182361
+GetLocal 37532
+GetGlobalHighestCommittedVersion 34084
+Get 34149
+GetErasureEncode 155402
+main Get 193485
+GetLocal 12727
+GetGlobalHighestCommittedVersion 39990
+Get 40049
+GetErasureEncode 157154
+main Get 170379
+GetLocal 13221
+GetGlobalHighestCommittedVersion 32524
+Get 32597
+GetErasureEncode 160427
+main Get 174103
+GetLocal 13390
+GetGlobalHighestCommittedVersion 30902
+Get 30972
+GetErasureEncode 366066
+main Get 379963
+GetLocal 16335
+GetGlobalHighestCommittedVersion 37683
+Get 37749
+GetErasureEncode 194082
+main Get 210983
+GetLocal 17589
+GetGlobalHighestCommittedVersion 41201
+Get 41267
+GetErasureEncode 238968
+main Get 257009
+GetLocal 12683
+GetGlobalHighestCommittedVersion 33922
+Get 33997
+GetErasureEncode 156255
+main Get 169436
+GetLocal 15855
+GetGlobalHighestCommittedVersion 41979
+Get 42050
+GetErasureEncode 157591
+main Get 173916
+GetLocal 11528
+GetGlobalHighestCommittedVersion 37727
+Get 37794
+GetErasureEncode 314480
+main Get 326454
+GetLocal 14301
+GetGlobalHighestCommittedVersion 36171
+Get 36241
+GetErasureEncode 295161
+main Get 309911
+GetLocal 20742
+GetGlobalHighestCommittedVersion 68850
+Get 68926
+GetErasureEncode 498419
+main Get 519766
+GetLocal 13124
+GetGlobalHighestCommittedVersion 38686
+Get 38754
+GetErasureEncode 207982
+main Get 221671
+GetLocal 14932
+GetGlobalHighestCommittedVersion 44165
+Get 44268
+GetErasureEncode 175545
+main Get 191014
+GetLocal 14378
+GetGlobalHighestCommittedVersion 39982
+Get 40053
+GetErasureEncode 161114
+main Get 176109
+GetLocal 17454
+GetGlobalHighestCommittedVersion 38083
+Get 38404
+GetErasureEncode 161144
+main Get 179187
+GetLocal 14079
+GetGlobalHighestCommittedVersion 40147
+Get 40221
+GetErasureEncode 162457
+main Get 177154
+GetLocal 15083
+GetGlobalHighestCommittedVersion 38326
+Get 38397
+GetErasureEncode 161791
+main Get 177512
+GetLocal 15968
+GetGlobalHighestCommittedVersion 40435
+Get 40514
+GetErasureEncode 169911
+main Get 186501
+GetLocal 36476
+GetGlobalHighestCommittedVersion 41648
+Get 41711
+GetErasureEncode 163702
+main Get 200653
+GetLocal 12511
+GetGlobalHighestCommittedVersion 39871
+Get 39945
+GetErasureEncode 160642
+main Get 173788
+GetLocal 13964
+GetGlobalHighestCommittedVersion 44277
+Get 44342
+GetErasureEncode 172454
+main Get 186631
+GetLocal 13147
+GetGlobalHighestCommittedVersion 43117
+Get 43184
+GetErasureEncode 157216
+main Get 170934
+GetLocal 12836
+GetGlobalHighestCommittedVersion 38078
+Get 38143
+GetErasureEncode 233263
+main Get 246689
+GetLocal 15011
+GetGlobalHighestCommittedVersion 36442
+Get 36520
+GetErasureEncode 174879
+main Get 190475
+GetLocal 13571
+GetGlobalHighestCommittedVersion 45091
+Get 45164
+GetErasureEncode 191905
+main Get 206047
+GetLocal 101067
+GetGlobalHighestCommittedVersion 37434
+Get 37579
+GetErasureEncode 158280
+main Get 259918
+GetLocal 15065
+GetGlobalHighestCommittedVersion 40027
+Get 40099
+GetErasureEncode 169702
+main Get 185357
+GetLocal 17019
+GetGlobalHighestCommittedVersion 38702
+Get 38813
+GetErasureEncode 157629
+main Get 175254
+GetLocal 15774
+GetGlobalHighestCommittedVersion 38035
+Get 38335
+GetErasureEncode 158317
+main Get 174691
+GetLocal 19265
+GetGlobalHighestCommittedVersion 33661
+Get 33925
+GetErasureEncode 161055
+main Get 180926
+GetLocal 12010
+GetGlobalHighestCommittedVersion 31876
+Get 32557
+GetErasureEncode 158826
+main Get 171449
+GetLocal 16209
+GetGlobalHighestCommittedVersion 34264
+Get 34396
+GetErasureEncode 157678
+main Get 174495
+GetLocal 15615
+GetGlobalHighestCommittedVersion 38118
+Get 38437
+GetErasureEncode 158494
+main Get 174713
+GetLocal 15621
+GetGlobalHighestCommittedVersion 36464
+Get 36530
+GetErasureEncode 157232
+main Get 173440
+GetLocal 13920
+GetGlobalHighestCommittedVersion 32422
+Get 33002
+GetErasureEncode 158549
+main Get 173023
+GetLocal 13256
+GetGlobalHighestCommittedVersion 33662
+Get 33727
+GetErasureEncode 190818
+main Get 204632
+GetLocal 15588
+GetGlobalHighestCommittedVersion 39068
+Get 39133
+GetErasureEncode 157504
+main Get 173765
+GetLocal 21675
+GetGlobalHighestCommittedVersion 45413
+Get 46313
+GetErasureEncode 971901
+main Get 994139
+GetLocal 23934
+GetGlobalHighestCommittedVersion 37676
+Get 37763
+GetErasureEncode 349861
+main Get 374315
+GetLocal 17627
+GetGlobalHighestCommittedVersion 41960
+Get 42030
+GetErasureEncode 158354
+main Get 176491
+GetLocal 20934
+GetGlobalHighestCommittedVersion 36164
+Get 36231
+GetErasureEncode 181006
+main Get 202466
+GetLocal 14358
+GetGlobalHighestCommittedVersion 36623
+Get 36698
+GetErasureEncode 170809
+main Get 185712
+GetLocal 15549
+GetGlobalHighestCommittedVersion 52807
+Get 52888
+GetErasureEncode 158223
+main Get 174348
+GetLocal 24259
+GetGlobalHighestCommittedVersion 36030
+Get 36100
+GetErasureEncode 192157
+main Get 217025
+GetLocal 12423
+GetGlobalHighestCommittedVersion 45352
+Get 45429
+GetErasureEncode 161271
+main Get 174278
+GetLocal 14080
+GetGlobalHighestCommittedVersion 35019
+Get 35511
+GetErasureEncode 159423
+main Get 174096
+GetLocal 13633
+GetGlobalHighestCommittedVersion 42036
+Get 42102
+GetErasureEncode 341305
+main Get 355511
+GetLocal 13421
+GetGlobalHighestCommittedVersion 41138
+Get 41206
+GetErasureEncode 309948
+main Get 324027
+GetLocal 12627
+GetGlobalHighestCommittedVersion 32246
+Get 32320
+GetErasureEncode 180648
+main Get 193934
+GetLocal 15891
+GetGlobalHighestCommittedVersion 37581
+Get 37811
+GetErasureEncode 437200
+main Get 453709
+GetLocal 17296
+GetGlobalHighestCommittedVersion 45519
+Get 45591
+GetErasureEncode 231203
+main Get 249189
+GetLocal 12494
+GetGlobalHighestCommittedVersion 98112
+Get 98621
+GetErasureEncode 158753
+main Get 171824
+GetLocal 15564
+GetGlobalHighestCommittedVersion 42517
+Get 42589
+GetErasureEncode 157225
+main Get 173305
+GetLocal 13245
+GetGlobalHighestCommittedVersion 32785
+Get 32857
+GetErasureEncode 239995
+main Get 253786
+GetLocal 16463
+GetGlobalHighestCommittedVersion 40898
+Get 40968
+GetErasureEncode 180330
+main Get 197381
+GetLocal 13669
+GetGlobalHighestCommittedVersion 32240
+Get 32691
+GetErasureEncode 168039
+main Get 182305
+GetLocal 14746
+GetGlobalHighestCommittedVersion 33375
+Get 33437
+GetErasureEncode 201320
+main Get 216670
+GetLocal 11897
+GetGlobalHighestCommittedVersion 55901
+Get 55971
+GetErasureEncode 156737
+main Get 169206
+GetLocal 15778
+GetGlobalHighestCommittedVersion 32564
+Get 32634
+GetErasureEncode 154842
+main Get 171215
+GetLocal 12195
+GetGlobalHighestCommittedVersion 40477
+Get 40540
+GetErasureEncode 155188
+main Get 167941
+GetLocal 15181
+GetGlobalHighestCommittedVersion 36377
+Get 36439
+GetErasureEncode 159911
+main Get 175657
+GetLocal 15674
+GetGlobalHighestCommittedVersion 40482
+Get 40546
+GetErasureEncode 156278
+main Get 172549
+GetLocal 18276
+GetGlobalHighestCommittedVersion 34550
+Get 34612
+GetErasureEncode 161665
+main Get 180501
+GetLocal 15284
+GetGlobalHighestCommittedVersion 37920
+Get 38470
+GetErasureEncode 155869
+main Get 171679
+GetLocal 16089
+GetGlobalHighestCommittedVersion 41816
+Get 42180
+GetErasureEncode 164274
+main Get 180930
+GetLocal 43578
+GetGlobalHighestCommittedVersion 42557
+Get 42627
+GetErasureEncode 210066
+main Get 254189
+GetLocal 15109
+GetGlobalHighestCommittedVersion 39889
+Get 39955
+GetErasureEncode 155524
+main Get 171234
+GetLocal 11323
+GetGlobalHighestCommittedVersion 35933
+Get 36003
+GetErasureEncode 158497
+main Get 170386
+GetLocal 12986
+GetGlobalHighestCommittedVersion 31684
+Get 32246
+GetErasureEncode 161761
+main Get 175378
+GetLocal 24238
+GetGlobalHighestCommittedVersion 36797
+Get 37775
+GetErasureEncode 157858
+main Get 182653
+GetLocal 17787
+GetGlobalHighestCommittedVersion 92458
+Get 92524
+GetErasureEncode 170871
+main Get 189178
+GetLocal 25565
+GetGlobalHighestCommittedVersion 34467
+Get 34695
+GetErasureEncode 158799
+main Get 184928
+GetLocal 15531
+GetGlobalHighestCommittedVersion 35306
+Get 35372
+GetErasureEncode 155807
+main Get 171871
+GetLocal 16088
+GetGlobalHighestCommittedVersion 43365
+Get 44924
+GetErasureEncode 155990
+main Get 172541
+GetLocal 14708
+GetGlobalHighestCommittedVersion 39323
+Get 39393
+GetErasureEncode 288651
+main Get 303858
+GetLocal 22918
+GetGlobalHighestCommittedVersion 39844
+Get 39957
+GetErasureEncode 160142
+main Get 183596
+GetLocal 54297
+GetGlobalHighestCommittedVersion 41305
+Get 41422
+GetErasureEncode 156959
+main Get 212182
+GetLocal 17772
+GetGlobalHighestCommittedVersion 37292
+Get 37384
+GetErasureEncode 157003
+main Get 176550
+GetLocal 18757
+GetGlobalHighestCommittedVersion 41511
+Get 41677
+GetErasureEncode 167577
+main Get 190133
+GetLocal 5014106
+GetGlobalHighestCommittedVersion 38888
+Get 38969
+GetErasureEncode 589846
+main Get 5604401
+GetLocal 11634
+GetGlobalHighestCommittedVersion 38918
+Get 38989
+GetErasureEncode 288633
+main Get 300716
+GetLocal 22159
+GetGlobalHighestCommittedVersion 35561
+Get 35628
+GetErasureEncode 180416
+main Get 203128
+GetLocal 16568
+GetGlobalHighestCommittedVersion 38158
+Get 38226
+GetErasureEncode 158057
+main Get 175164
+GetLocal 21556
+GetGlobalHighestCommittedVersion 38832
+Get 38897
+GetErasureEncode 157799
+main Get 179922
+GetLocal 17633
+GetGlobalHighestCommittedVersion 51918
+Get 51985
+GetErasureEncode 157430
+main Get 175633
+GetLocal 13568
+GetGlobalHighestCommittedVersion 38305
+Get 38369
+GetErasureEncode 157760
+main Get 171788
+GetLocal 40003
+GetGlobalHighestCommittedVersion 36455
+Get 36523
+GetErasureEncode 158002
+main Get 198472
+GetLocal 16254
+GetGlobalHighestCommittedVersion 44470
+Get 44544
+GetErasureEncode 163182
+main Get 179940
+GetLocal 13557
+GetGlobalHighestCommittedVersion 38772
+Get 38843
+GetErasureEncode 166634
+main Get 180650
+GetLocal 17682
+GetGlobalHighestCommittedVersion 35141
+Get 35212
+GetErasureEncode 175523
+main Get 193679
+GetLocal 12678
+GetGlobalHighestCommittedVersion 37388
+Get 37454
+GetErasureEncode 244692
+main Get 257914
+GetLocal 15282
+GetGlobalHighestCommittedVersion 43741
+Get 43817
+GetErasureEncode 157993
+main Get 173843
+GetLocal 16820
+GetGlobalHighestCommittedVersion 35102
+Get 35168
+GetErasureEncode 158685
+main Get 176103
+GetLocal 15263
+GetGlobalHighestCommittedVersion 39114
+Get 39192
+GetErasureEncode 169144
+main Get 184939
+GetLocal 12235
+GetGlobalHighestCommittedVersion 31965
+Get 32029
+GetErasureEncode 176539
+main Get 189258
+GetLocal 16436
+GetGlobalHighestCommittedVersion 39826
+Get 39890
+GetErasureEncode 302005
+main Get 319049
+GetLocal 15233
+GetGlobalHighestCommittedVersion 37504
+Get 37569
+GetErasureEncode 168050
+main Get 183807
+GetLocal 13717
+GetGlobalHighestCommittedVersion 31368
+Get 31436
+GetErasureEncode 157271
+main Get 171184
+GetLocal 43307
+GetGlobalHighestCommittedVersion 39746
+Get 39806
+GetErasureEncode 216734
+main Get 260605
+GetLocal 37013
+GetGlobalHighestCommittedVersion 33315
+Get 33897
+GetErasureEncode 178291
+main Get 215880
+GetLocal 14863
+GetGlobalHighestCommittedVersion 45129
+Get 45187
+GetErasureEncode 166940
+main Get 182378
+GetLocal 14699
+GetGlobalHighestCommittedVersion 36242
+Get 36311
+GetErasureEncode 240196
+main Get 255458
+GetLocal 22940
+GetGlobalHighestCommittedVersion 40138
+Get 40217
+GetErasureEncode 188939
+main Get 212466
+GetLocal 14771
+GetGlobalHighestCommittedVersion 31615
+Get 31845
+GetErasureEncode 160180
+main Get 175464
+GetLocal 12858
+GetGlobalHighestCommittedVersion 31777
+Get 32027
+GetErasureEncode 214709
+main Get 228111
+GetLocal 11720
+GetGlobalHighestCommittedVersion 38360
+Get 38421
+GetErasureEncode 222851
+main Get 235011
+GetLocal 12052
+GetGlobalHighestCommittedVersion 43183
+Get 43275
+GetErasureEncode 169443
+main Get 182031
+GetLocal 12542
+GetGlobalHighestCommittedVersion 45617
+Get 45686
+GetErasureEncode 157175
+main Get 170244
+GetLocal 11249
+GetGlobalHighestCommittedVersion 32532
+Get 32903
+GetErasureEncode 158604
+main Get 170404
+GetLocal 13262
+GetGlobalHighestCommittedVersion 34509
+Get 34574
+GetErasureEncode 160044
+main Get 173851
+GetLocal 14830
+GetGlobalHighestCommittedVersion 41737
+Get 41800
+GetErasureEncode 159528
+main Get 174944
+GetLocal 13598
+GetGlobalHighestCommittedVersion 37610
+Get 37671
+GetErasureEncode 200884
+main Get 215075
+GetLocal 12015
+GetGlobalHighestCommittedVersion 32492
+Get 32558
+GetErasureEncode 179613
+main Get 192209
+GetLocal 14957
+GetGlobalHighestCommittedVersion 32602
+Get 33555
+GetErasureEncode 161103
+main Get 176661
+GetLocal 18658
+GetGlobalHighestCommittedVersion 38256
+Get 38347
+GetErasureEncode 163490
+main Get 182712
+GetLocal 12319
+GetGlobalHighestCommittedVersion 44814
+Get 44883
+GetErasureEncode 236679
+main Get 249592
+GetLocal 14568
+GetGlobalHighestCommittedVersion 33649
+Get 34332
+GetErasureEncode 274460
+main Get 289618
+GetLocal 16660
+GetGlobalHighestCommittedVersion 37910
+Get 38535
+GetErasureEncode 171152
+main Get 188422
+GetLocal 14672
+GetGlobalHighestCommittedVersion 39685
+Get 39747
+GetErasureEncode 157681
+main Get 172929
+GetLocal 14730
+GetGlobalHighestCommittedVersion 34654
+Get 34721
+GetErasureEncode 159079
+main Get 174363
+GetLocal 13224
+GetGlobalHighestCommittedVersion 44978
+Get 45111
+GetErasureEncode 157884
+main Get 171681
+GetLocal 17137
+GetGlobalHighestCommittedVersion 40426
+Get 40499
+GetErasureEncode 158888
+main Get 176578
+GetLocal 18626
+GetGlobalHighestCommittedVersion 31167
+Get 31235
+GetErasureEncode 168947
+main Get 188186
+GetLocal 15021
+GetGlobalHighestCommittedVersion 35682
+Get 35744
+GetErasureEncode 158492
+main Get 174099
+GetLocal 15955
+GetGlobalHighestCommittedVersion 47836
+Get 48315
+GetErasureEncode 170348
+main Get 186869
+GetLocal 13255
+GetGlobalHighestCommittedVersion 37973
+Get 38036
+GetErasureEncode 158333
+main Get 172160
+GetLocal 12805
+GetGlobalHighestCommittedVersion 33155
+Get 33273
+GetErasureEncode 157402
+main Get 170763
+GetLocal 12326
+GetGlobalHighestCommittedVersion 54262
+Get 54331
+GetErasureEncode 286046
+main Get 299005
+GetLocal 14751
+GetGlobalHighestCommittedVersion 34270
+Get 34340
+GetErasureEncode 164850
+main Get 180196
+GetLocal 13486
+GetGlobalHighestCommittedVersion 51050
+Get 51125
+GetErasureEncode 158997
+main Get 173024
+GetLocal 12575
+GetGlobalHighestCommittedVersion 38175
+Get 38245
+GetErasureEncode 164435
+main Get 178776
+GetLocal 13393
+GetGlobalHighestCommittedVersion 38137
+Get 38595
+GetErasureEncode 159558
+main Get 173627
+GetLocal 18740
+GetGlobalHighestCommittedVersion 33121
+Get 33200
+GetErasureEncode 159191
+main Get 178521
+GetLocal 13210
+GetGlobalHighestCommittedVersion 38710
+Get 38771
+GetErasureEncode 169046
+main Get 182774
+GetLocal 18704
+GetGlobalHighestCommittedVersion 32163
+Get 32232
+GetErasureEncode 170704
+main Get 190088
+GetLocal 19356
+GetGlobalHighestCommittedVersion 31589
+Get 31666
+GetErasureEncode 165860
+main Get 185832
+GetLocal 14536
+GetGlobalHighestCommittedVersion 33985
+Get 34055
+GetErasureEncode 157592
+main Get 172709
+GetLocal 12206
+GetGlobalHighestCommittedVersion 42834
+Get 42898
+GetErasureEncode 252689
+main Get 265504
+GetLocal 16094
+GetGlobalHighestCommittedVersion 52659
+Get 52796
+GetErasureEncode 158861
+main Get 175606
+GetLocal 15094
+GetGlobalHighestCommittedVersion 38497
+Get 38648
+GetErasureEncode 158098
+main Get 173935
+GetLocal 17404
+GetGlobalHighestCommittedVersion 39454
+Get 39517
+GetErasureEncode 232599
+main Get 250567
+GetLocal 13177
+GetGlobalHighestCommittedVersion 38762
+Get 38831
+GetErasureEncode 160434
+main Get 174198
+GetLocal 16936
+GetGlobalHighestCommittedVersion 36045
+Get 36156
+GetErasureEncode 158119
+main Get 175667
+GetLocal 16283
+GetGlobalHighestCommittedVersion 37357
+Get 37440
+GetErasureEncode 158133
+main Get 175032
+GetLocal 13073
+GetGlobalHighestCommittedVersion 51255
+Get 51466
+GetErasureEncode 156896
+main Get 170559
+GetLocal 15220
+GetGlobalHighestCommittedVersion 39066
+Get 39129
+GetErasureEncode 255280
+main Get 271088
+GetLocal 25815
+GetGlobalHighestCommittedVersion 39905
+Get 40515
+GetErasureEncode 473581
+main Get 500025
+GetLocal 12235
+GetGlobalHighestCommittedVersion 42932
+Get 43297
+GetErasureEncode 230626
+main Get 243464
+GetLocal 15032
+GetGlobalHighestCommittedVersion 38972
+Get 39469
+GetErasureEncode 169292
+main Get 184910
+GetLocal 15025
+GetGlobalHighestCommittedVersion 38292
+Get 39158
+GetErasureEncode 158471
+main Get 174062
+GetLocal 18957
+GetGlobalHighestCommittedVersion 42704
+Get 42781
+GetErasureEncode 158041
+main Get 177514
+GetLocal 14750
+GetGlobalHighestCommittedVersion 35916
+Get 35995
+GetErasureEncode 158591
+main Get 173847
+GetLocal 16124
+GetGlobalHighestCommittedVersion 38431
+Get 38561
+GetErasureEncode 158025
+main Get 174653
+GetLocal 14493
+GetGlobalHighestCommittedVersion 38809
+Get 38881
+GetErasureEncode 158786
+main Get 173824
+GetLocal 15312
+GetGlobalHighestCommittedVersion 38070
+Get 38156
+GetErasureEncode 158163
+main Get 174063
+GetLocal 13133
+GetGlobalHighestCommittedVersion 37067
+Get 37312
+GetErasureEncode 158355
+main Get 171702
+GetLocal 16203
+GetGlobalHighestCommittedVersion 32985
+Get 33392
+GetErasureEncode 158390
+main Get 175201
+GetLocal 11550
+GetGlobalHighestCommittedVersion 40251
+Get 40310
+GetErasureEncode 249520
+main Get 261523
+GetLocal 13849
+GetGlobalHighestCommittedVersion 38217
+Get 38331
+GetErasureEncode 157506
+main Get 171934
+GetLocal 18747
+GetGlobalHighestCommittedVersion 39402
+Get 39471
+GetErasureEncode 242289
+main Get 261561
+GetLocal 13428
+GetGlobalHighestCommittedVersion 33205
+Get 33282
+GetErasureEncode 231885
+main Get 245905
+GetLocal 13102
+GetGlobalHighestCommittedVersion 38405
+Get 38507
+GetErasureEncode 175970
+main Get 189689
+GetLocal 19621
+GetGlobalHighestCommittedVersion 35310
+Get 35719
+GetErasureEncode 180256
+main Get 200453
+GetLocal 19547
+GetGlobalHighestCommittedVersion 41291
+Get 41952
+GetErasureEncode 159267
+main Get 179427
+GetLocal 18417
+GetGlobalHighestCommittedVersion 35414
+Get 35817
+GetErasureEncode 336109
+main Get 355153
+GetLocal 16302
+GetGlobalHighestCommittedVersion 31930
+Get 32003
+GetErasureEncode 161808
+main Get 178726
+GetLocal 15936
+GetGlobalHighestCommittedVersion 36057
+Get 36260
+GetErasureEncode 160119
+main Get 176603
+GetLocal 12710
+GetGlobalHighestCommittedVersion 38629
+Get 38958
+GetErasureEncode 156413
+main Get 169680
+GetLocal 14933
+GetGlobalHighestCommittedVersion 39881
+Get 41001
+GetErasureEncode 160152
+main Get 175623
+GetLocal 15248
+GetGlobalHighestCommittedVersion 41749
+Get 41823
+GetErasureEncode 402812
+main Get 418678
+GetLocal 16382
+GetGlobalHighestCommittedVersion 45659
+Get 45724
+GetErasureEncode 158114
+main Get 175013
+GetLocal 18115
+GetGlobalHighestCommittedVersion 37484
+Get 37552
+GetErasureEncode 157479
+main Get 176104
+GetLocal 13710
+GetGlobalHighestCommittedVersion 37857
+Get 37923
+GetErasureEncode 157127
+main Get 171373
+GetLocal 13471
+GetGlobalHighestCommittedVersion 41851
+Get 41918
+GetErasureEncode 168275
+main Get 182290
+GetLocal 15815
+GetGlobalHighestCommittedVersion 33391
+Get 33455
+GetErasureEncode 156521
+main Get 172907
+GetLocal 12622
+GetGlobalHighestCommittedVersion 44383
+Get 44571
+GetErasureEncode 161297
+main Get 174495
+GetLocal 15239
+GetGlobalHighestCommittedVersion 38191
+Get 38300
+GetErasureEncode 157409
+main Get 173219
+GetLocal 11565
+GetGlobalHighestCommittedVersion 36531
+Get 36601
+GetErasureEncode 158149
+main Get 170268
+GetLocal 15412
+GetGlobalHighestCommittedVersion 34025
+Get 34156
+GetErasureEncode 159149
+main Get 175084
+GetLocal 12074
+GetGlobalHighestCommittedVersion 39630
+Get 39704
+GetErasureEncode 156555
+main Get 169214
+GetLocal 14023
+GetGlobalHighestCommittedVersion 33796
+Get 33965
+GetErasureEncode 250995
+main Get 265625
+GetLocal 14975
+GetGlobalHighestCommittedVersion 33011
+Get 33647
+GetErasureEncode 158129
+main Get 173680
+GetLocal 12219
+GetGlobalHighestCommittedVersion 42490
+Get 42602
+GetErasureEncode 155148
+main Get 168005
+GetLocal 11411
+GetGlobalHighestCommittedVersion 38771
+Get 38839
+GetErasureEncode 363667
+main Get 375618
+GetLocal 13240
+GetGlobalHighestCommittedVersion 32659
+Get 32726
+GetErasureEncode 167642
+main Get 181466
+GetLocal 17172
+GetGlobalHighestCommittedVersion 37917
+Get 38356
+GetErasureEncode 156415
+main Get 174148
+GetLocal 16550
+GetGlobalHighestCommittedVersion 40223
+Get 40291
+GetErasureEncode 194008
+main Get 211112
+GetLocal 13571
+GetGlobalHighestCommittedVersion 31905
+Get 32017
+GetErasureEncode 168914
+main Get 183111
+GetLocal 17106
+GetGlobalHighestCommittedVersion 37571
+Get 37642
+GetErasureEncode 155969
+main Get 173609
+GetLocal 12338
+GetGlobalHighestCommittedVersion 36765
+Get 36829
+GetErasureEncode 156207
+main Get 168734
+GetLocal 17047
+GetGlobalHighestCommittedVersion 31950
+Get 32024
+GetErasureEncode 156247
+main Get 173824
+GetLocal 12801
+GetGlobalHighestCommittedVersion 39721
+Get 39843
+GetErasureEncode 155500
+main Get 168867
+GetLocal 76818
+GetGlobalHighestCommittedVersion 37814
+Get 37933
+GetErasureEncode 154497
+main Get 231905
+GetLocal 12373
+GetGlobalHighestCommittedVersion 31811
+Get 32246
+GetErasureEncode 157181
+main Get 170100
+GetLocal 38173
+GetGlobalHighestCommittedVersion 32211
+Get 32280
+GetErasureEncode 157291
+main Get 196003
+GetLocal 12547
+GetGlobalHighestCommittedVersion 31579
+Get 31644
+GetErasureEncode 156875
+main Get 169950
+GetLocal 12997
+GetGlobalHighestCommittedVersion 35952
+Get 36525
+GetErasureEncode 156233
+main Get 169794
+GetLocal 15961
+GetGlobalHighestCommittedVersion 38360
+Get 38433
+GetErasureEncode 156838
+main Get 173373
+GetLocal 19335
+GetGlobalHighestCommittedVersion 38933
+Get 38992
+GetErasureEncode 164045
+main Get 183940
+GetLocal 16450
+GetGlobalHighestCommittedVersion 42503
+Get 43060
+GetErasureEncode 170371
+main Get 187379
+GetLocal 12638
+GetGlobalHighestCommittedVersion 38901
+Get 38974
+GetErasureEncode 156150
+main Get 169375
+GetLocal 16211
+GetGlobalHighestCommittedVersion 37536
+Get 37604
+GetErasureEncode 219183
+main Get 235982
+GetLocal 15127
+GetGlobalHighestCommittedVersion 44337
+Get 44407
+GetErasureEncode 158496
+main Get 177233
+GetLocal 14600
+GetGlobalHighestCommittedVersion 49573
+Get 49653
+GetErasureEncode 158850
+main Get 174059
+GetLocal 16787
+GetGlobalHighestCommittedVersion 44781
+Get 45146
+GetErasureEncode 157559
+main Get 174555
+GetLocal 12630
+GetGlobalHighestCommittedVersion 40138
+Get 40203
+GetErasureEncode 161552
+main Get 174770
+GetLocal 88910
+GetGlobalHighestCommittedVersion 39819
+Get 39894
+GetErasureEncode 156082
+main Get 245630
+GetLocal 16335
+GetGlobalHighestCommittedVersion 37455
+Get 37521
+GetErasureEncode 168458
+main Get 185385
+GetLocal 15785
+GetGlobalHighestCommittedVersion 37154
+Get 37223
+GetErasureEncode 159951
+main Get 176356
+GetLocal 15789
+GetGlobalHighestCommittedVersion 38221
+Get 38329
+GetErasureEncode 160298
+main Get 176748
+GetLocal 15777
+GetGlobalHighestCommittedVersion 39506
+Get 39585
+GetErasureEncode 159289
+main Get 175719
+GetLocal 16388
+GetGlobalHighestCommittedVersion 35713
+Get 35779
+GetErasureEncode 170037
+main Get 187010
+GetLocal 12753
+GetGlobalHighestCommittedVersion 34415
+Get 35026
+GetErasureEncode 166673
+main Get 180158
+GetLocal 17296
+GetGlobalHighestCommittedVersion 93757
+Get 93845
+GetErasureEncode 158513
+main Get 176489
+GetLocal 17213
+GetGlobalHighestCommittedVersion 43682
+Get 44385
+GetErasureEncode 307350
+main Get 325201
+GetLocal 17711
+GetGlobalHighestCommittedVersion 38278
+Get 38344
+GetErasureEncode 157914
+main Get 176232
+GetLocal 18938
+GetGlobalHighestCommittedVersion 38643
+Get 38780
+GetErasureEncode 157661
+main Get 177179
+GetLocal 15875
+GetGlobalHighestCommittedVersion 33551
+Get 33719
+GetErasureEncode 159100
+main Get 175551
+GetLocal 15518
+GetGlobalHighestCommittedVersion 38439
+Get 38508
+GetErasureEncode 178796
+main Get 194763
+GetLocal 14804
+GetGlobalHighestCommittedVersion 40336
+Get 40405
+GetErasureEncode 169512
+main Get 184787
+GetLocal 12777
+GetGlobalHighestCommittedVersion 39481
+Get 39561
+GetErasureEncode 197502
+main Get 210776
+GetLocal 16348
+GetGlobalHighestCommittedVersion 31934
+Get 31997
+GetErasureEncode 158409
+main Get 175305
+GetLocal 13632
+GetGlobalHighestCommittedVersion 32955
+Get 33021
+GetErasureEncode 212857
+main Get 227002
+GetLocal 17799
+GetGlobalHighestCommittedVersion 33933
+Get 34221
+GetErasureEncode 157922
+main Get 176228
+GetLocal 17381
+GetGlobalHighestCommittedVersion 41770
+Get 41836
+GetErasureEncode 156940
+main Get 174847
+GetLocal 15108
+GetGlobalHighestCommittedVersion 37085
+Get 37160
+GetErasureEncode 163149
+main Get 178794
+GetLocal 16977
+GetGlobalHighestCommittedVersion 37493
+Get 37556
+GetErasureEncode 156535
+main Get 174085
+GetLocal 12422
+GetGlobalHighestCommittedVersion 36281
+Get 36348
+GetErasureEncode 157990
+main Get 170988
+GetLocal 13741
+GetGlobalHighestCommittedVersion 31795
+Get 31864
+GetErasureEncode 156833
+main Get 171074
+GetLocal 11630
+GetGlobalHighestCommittedVersion 32926
+Get 33026
+GetErasureEncode 156836
+main Get 168739
+GetLocal 13303
+GetGlobalHighestCommittedVersion 33497
+Get 33564
+GetErasureEncode 160331
+main Get 174212
+GetLocal 11931
+GetGlobalHighestCommittedVersion 32986
+Get 33046
+GetErasureEncode 171188
+main Get 183675
+GetLocal 11730
+GetGlobalHighestCommittedVersion 36418
+Get 36490
+GetErasureEncode 159023
+main Get 171324
+GetLocal 12083
+GetGlobalHighestCommittedVersion 41910
+Get 42145
+GetErasureEncode 228045
+main Get 240700
+GetLocal 41621
+GetGlobalHighestCommittedVersion 33060
+Get 33129
+GetErasureEncode 157489
+main Get 199782
+GetLocal 17441
+GetGlobalHighestCommittedVersion 51787
+Get 52073
+GetErasureEncode 159345
+main Get 177351
+GetLocal 12518
+GetGlobalHighestCommittedVersion 32419
+Get 32477
+GetErasureEncode 168848
+main Get 181933
+GetLocal 16969
+GetGlobalHighestCommittedVersion 38396
+Get 38465
+GetErasureEncode 158242
+main Get 175740
+GetLocal 16813
+GetGlobalHighestCommittedVersion 35314
+Get 35439
+GetErasureEncode 156239
+main Get 173652
+GetLocal 12135
+GetGlobalHighestCommittedVersion 36867
+Get 37260
+GetErasureEncode 158875
+main Get 171536
+GetLocal 14359
+GetGlobalHighestCommittedVersion 36661
+Get 36734
+GetErasureEncode 227498
+main Get 242446
+GetLocal 12693
+GetGlobalHighestCommittedVersion 53765
+Get 53866
+GetErasureEncode 156302
+main Get 169606
+GetLocal 12065
+GetGlobalHighestCommittedVersion 40823
+Get 40890
+GetErasureEncode 156553
+main Get 169184
+GetLocal 12903
+GetGlobalHighestCommittedVersion 32474
+Get 32534
+GetErasureEncode 158062
+main Get 171524
+GetLocal 16542
+GetGlobalHighestCommittedVersion 40621
+Get 40687
+GetErasureEncode 171836
+main Get 188943
+GetLocal 12080
+GetGlobalHighestCommittedVersion 39077
+Get 39153
+GetErasureEncode 158615
+main Get 171310
+GetLocal 12560
+GetGlobalHighestCommittedVersion 52975
+Get 53140
+GetErasureEncode 156866
+main Get 170030
+GetLocal 12009
+GetGlobalHighestCommittedVersion 38590
+Get 39087
+GetErasureEncode 158163
+main Get 170787
+GetLocal 11747
+GetGlobalHighestCommittedVersion 31413
+Get 32027
+GetErasureEncode 157740
+main Get 170075
+GetLocal 13529
+GetGlobalHighestCommittedVersion 36400
+Get 36464
+GetErasureEncode 172938
+main Get 186670
+GetLocal 13071
+GetGlobalHighestCommittedVersion 35499
+Get 35593
+GetErasureEncode 156791
+main Get 170480
+GetLocal 14638
+GetGlobalHighestCommittedVersion 36377
+Get 36793
+GetErasureEncode 158166
+main Get 173380
+GetLocal 16471
+GetGlobalHighestCommittedVersion 35798
+Get 35861
+GetErasureEncode 157817
+main Get 174861
+GetLocal 14068
+GetGlobalHighestCommittedVersion 38199
+Get 39509
+GetErasureEncode 159246
+main Get 173861
+GetLocal 14489
+GetGlobalHighestCommittedVersion 36926
+Get 36991
+GetErasureEncode 156953
+main Get 171951
+GetLocal 13274
+GetGlobalHighestCommittedVersion 32154
+Get 32216
+GetErasureEncode 170553
+main Get 184351
+GetLocal 18520
+GetGlobalHighestCommittedVersion 36524
+Get 36612
+GetErasureEncode 159449
+main Get 178524
+GetLocal 13192
+GetGlobalHighestCommittedVersion 47543
+Get 47614
+GetErasureEncode 158315
+main Get 172044
+GetLocal 13044
+GetGlobalHighestCommittedVersion 36036
+Get 36293
+GetErasureEncode 157568
+main Get 171173
+GetLocal 13467
+GetGlobalHighestCommittedVersion 37269
+Get 37339
+GetErasureEncode 156254
+main Get 170329
+GetLocal 14836
+GetGlobalHighestCommittedVersion 38931
+Get 39438
+GetErasureEncode 157061
+main Get 172480
+GetLocal 15905
+GetGlobalHighestCommittedVersion 40003
+Get 40065
+GetErasureEncode 212940
+main Get 229461
+GetLocal 15324
+GetGlobalHighestCommittedVersion 55910
+Get 56251
+GetErasureEncode 155481
+main Get 171382
+GetLocal 12668
+GetGlobalHighestCommittedVersion 38682
+Get 38745
+GetErasureEncode 164860
+main Get 178325
+GetLocal 15988
+GetGlobalHighestCommittedVersion 38904
+Get 38967
+GetErasureEncode 190621
+main Get 207213
+GetLocal 14605
+GetGlobalHighestCommittedVersion 40194
+Get 40408
+GetErasureEncode 186474
+main Get 201662
+GetLocal 14119
+GetGlobalHighestCommittedVersion 37948
+Get 38040
+GetErasureEncode 175730
+main Get 190500
+GetLocal 16782
+GetGlobalHighestCommittedVersion 40171
+Get 40240
+GetErasureEncode 197731
+main Get 215130
+GetLocal 13432
+GetGlobalHighestCommittedVersion 37741
+Get 37808
+GetErasureEncode 170730
+main Get 184673
+GetLocal 15799
+GetGlobalHighestCommittedVersion 36871
+Get 36947
+GetErasureEncode 170480
+main Get 186801
+GetLocal 14644
+GetGlobalHighestCommittedVersion 38253
+Get 38328
+GetErasureEncode 165586
+main Get 180731
+GetLocal 12311
+GetGlobalHighestCommittedVersion 41766
+Get 41832
+GetErasureEncode 156806
+main Get 169667
+GetLocal 12696
+GetGlobalHighestCommittedVersion 42741
+Get 42803
+GetErasureEncode 156342
+main Get 169593
+GetLocal 15512
+GetGlobalHighestCommittedVersion 36283
+Get 36355
+GetErasureEncode 157025
+main Get 173105
+GetLocal 12392
+GetGlobalHighestCommittedVersion 37061
+Get 37177
+GetErasureEncode 157175
+main Get 170130
+GetLocal 12810
+GetGlobalHighestCommittedVersion 30700
+Get 30763
+GetErasureEncode 157725
+main Get 171131
+GetLocal 12945
+GetGlobalHighestCommittedVersion 33042
+Get 33141
+GetErasureEncode 157527
+main Get 171063
+GetLocal 79175
+GetGlobalHighestCommittedVersion 32174
+Get 32503
+GetErasureEncode 185619
+main Get 265373
+GetLocal 15220
+GetGlobalHighestCommittedVersion 33299
+Get 33362
+GetErasureEncode 321229
+main Get 337038
+GetLocal 12702
+GetGlobalHighestCommittedVersion 39624
+Get 39691
+GetErasureEncode 187106
+main Get 200384
+GetLocal 12982
+GetGlobalHighestCommittedVersion 68251
+Get 68373
+GetErasureEncode 156507
+main Get 170117
+GetLocal 17101
+GetGlobalHighestCommittedVersion 41305
+Get 41367
+GetErasureEncode 298119
+main Get 315693
+GetLocal 13623
+GetGlobalHighestCommittedVersion 44235
+Get 44310
+GetErasureEncode 199900
+main Get 214119
+GetLocal 18313
+GetGlobalHighestCommittedVersion 35510
+Get 35822
+GetErasureEncode 187041
+main Get 206015
+GetLocal 15561
+GetGlobalHighestCommittedVersion 39862
+Get 40200
+GetErasureEncode 182703
+main Get 198836
+GetLocal 14049
+GetGlobalHighestCommittedVersion 68464
+Get 68549
+GetErasureEncode 158203
+main Get 172963
+GetLocal 14705
+GetGlobalHighestCommittedVersion 34338
+Get 35037
+GetErasureEncode 156814
+main Get 172142
+GetLocal 15532
+GetGlobalHighestCommittedVersion 42676
+Get 42742
+GetErasureEncode 343273
+main Get 359325
+GetLocal 19894
+GetGlobalHighestCommittedVersion 33140
+Get 33210
+GetErasureEncode 157591
+main Get 178142
+GetLocal 17369
+GetGlobalHighestCommittedVersion 31705
+Get 31783
+GetErasureEncode 170716
+main Get 188696
+GetLocal 15036
+GetGlobalHighestCommittedVersion 39783
+Get 39995
+GetErasureEncode 176636
+main Get 192343
+GetLocal 18685
+GetGlobalHighestCommittedVersion 39706
+Get 40514
+GetErasureEncode 186682
+main Get 207993
+GetLocal 23476
+GetGlobalHighestCommittedVersion 37866
+Get 37938
+GetErasureEncode 198617
+main Get 222706
+GetLocal 13274
+GetGlobalHighestCommittedVersion 36854
+Get 36922
+GetErasureEncode 159793
+main Get 173577
+GetLocal 12498
+GetGlobalHighestCommittedVersion 34277
+Get 34340
+GetErasureEncode 156520
+main Get 169481
+GetLocal 13140
+GetGlobalHighestCommittedVersion 32771
+Get 32891
+GetErasureEncode 179207
+main Get 192862
+GetLocal 14193
+GetGlobalHighestCommittedVersion 37739
+Get 37809
+GetErasureEncode 225551
+main Get 240261
+GetLocal 12158
+GetGlobalHighestCommittedVersion 41004
+Get 41086
+GetErasureEncode 197387
+main Get 210165
+GetLocal 12934
+GetGlobalHighestCommittedVersion 37889
+Get 37960
+GetErasureEncode 157311
+main Get 170808
+GetLocal 25416
+GetGlobalHighestCommittedVersion 33729
+Get 34484
+GetErasureEncode 239439
+main Get 265382
+GetLocal 15207
+GetGlobalHighestCommittedVersion 38088
+Get 38159
+GetErasureEncode 428178
+main Get 443913
+GetLocal 11716
+GetGlobalHighestCommittedVersion 37783
+Get 37859
+GetErasureEncode 463849
+main Get 476016
+GetLocal 13219
+GetGlobalHighestCommittedVersion 31729
+Get 31800
+GetErasureEncode 437863
+main Get 451570
+GetLocal 15320
+GetGlobalHighestCommittedVersion 33182
+Get 33249
+GetErasureEncode 294042
+main Get 309896
+GetLocal 30343
+GetGlobalHighestCommittedVersion 42871
+Get 42938
+GetErasureEncode 285761
+main Get 316661
+GetLocal 13666
+GetGlobalHighestCommittedVersion 73283
+Get 73402
+GetErasureEncode 182351
+main Get 196626
+GetLocal 25454
+GetGlobalHighestCommittedVersion 38312
+Get 38378
+GetErasureEncode 283024
+main Get 309052
+GetLocal 18830
+GetGlobalHighestCommittedVersion 42535
+Get 42603
+GetErasureEncode 332021
+main Get 351460
+GetLocal 14733
+GetGlobalHighestCommittedVersion 38378
+Get 38608
+GetErasureEncode 195110
+main Get 210373
+GetLocal 12242
+GetGlobalHighestCommittedVersion 37530
+Get 37605
+GetErasureEncode 361373
+main Get 374139
+GetLocal 16113
+GetGlobalHighestCommittedVersion 34901
+Get 34964
+GetErasureEncode 199007
+main Get 215690
+GetLocal 14860
+GetGlobalHighestCommittedVersion 40363
+Get 40436
+GetErasureEncode 414011
+main Get 429471
+GetLocal 19930
+GetGlobalHighestCommittedVersion 31222
+Get 31289
+GetErasureEncode 158393
+main Get 178910
+GetLocal 83516
+GetGlobalHighestCommittedVersion 37814
+Get 37879
+GetErasureEncode 157706
+main Get 241819
+GetLocal 14963
+GetGlobalHighestCommittedVersion 37627
+Get 37736
+GetErasureEncode 158276
+main Get 173842
+GetLocal 16237
+GetGlobalHighestCommittedVersion 38163
+Get 38224
+GetErasureEncode 168551
+main Get 185398
+GetLocal 15381
+GetGlobalHighestCommittedVersion 33289
+Get 33719
+GetErasureEncode 165967
+main Get 181978
+GetLocal 15084
+GetGlobalHighestCommittedVersion 32045
+Get 32117
+GetErasureEncode 157240
+main Get 172904
+GetLocal 12132
+GetGlobalHighestCommittedVersion 34749
+Get 35045
+GetErasureEncode 159361
+main Get 172060
+GetLocal 11652
+GetGlobalHighestCommittedVersion 38310
+Get 38524
+GetErasureEncode 168849
+main Get 181057
+GetLocal 15659
+GetGlobalHighestCommittedVersion 36357
+Get 36431
+GetErasureEncode 168656
+main Get 184898
+GetLocal 12162
+GetGlobalHighestCommittedVersion 47122
+Get 47184
+GetErasureEncode 164074
+main Get 176815
+GetLocal 11675
+GetGlobalHighestCommittedVersion 38465
+Get 38928
+GetErasureEncode 175353
+main Get 187626
+GetLocal 16255
+GetGlobalHighestCommittedVersion 39240
+Get 39312
+GetErasureEncode 247194
+main Get 264046
+GetLocal 16373
+GetGlobalHighestCommittedVersion 36376
+Get 36438
+GetErasureEncode 194311
+main Get 211248
+GetLocal 15569
+GetGlobalHighestCommittedVersion 41471
+Get 41532
+GetErasureEncode 158360
+main Get 174496
+GetLocal 14766
+GetGlobalHighestCommittedVersion 34695
+Get 34757
+GetErasureEncode 217250
+main Get 232586
+GetLocal 16110
+GetGlobalHighestCommittedVersion 39657
+Get 39728
+GetErasureEncode 495551
+main Get 512259
+GetLocal 15783
+GetGlobalHighestCommittedVersion 40026
+Get 40095
+GetErasureEncode 188535
+main Get 204902
+GetLocal 22649
+GetGlobalHighestCommittedVersion 41373
+Get 41447
+GetErasureEncode 386870
+main Get 410119
+GetLocal 17827
+GetGlobalHighestCommittedVersion 35659
+Get 36023
+GetErasureEncode 295089
+main Get 313460
+GetLocal 14588
+GetGlobalHighestCommittedVersion 36268
+Get 36386
+GetErasureEncode 240910
+main Get 256092
+GetLocal 14159
+GetGlobalHighestCommittedVersion 36583
+Get 36656
+GetErasureEncode 277185
+main Get 291933
+GetLocal 16313
+GetGlobalHighestCommittedVersion 37907
+Get 37976
+GetErasureEncode 157331
+main Get 174193
+GetLocal 14618
+GetGlobalHighestCommittedVersion 39179
+Get 39245
+GetErasureEncode 247614
+main Get 262830
+GetLocal 12257
+GetGlobalHighestCommittedVersion 38642
+Get 38716
+GetErasureEncode 163118
+main Get 175948
+GetLocal 12270
+GetGlobalHighestCommittedVersion 39812
+Get 39876
+GetErasureEncode 180475
+main Get 193340
+GetLocal 16241
+GetGlobalHighestCommittedVersion 32516
+Get 32723
+GetErasureEncode 212461
+main Get 229326
+GetLocal 12385
+GetGlobalHighestCommittedVersion 44224
+Get 44300
+GetErasureEncode 182377
+main Get 195361
+GetLocal 19814
+GetGlobalHighestCommittedVersion 32430
+Get 32495
+GetErasureEncode 172972
+main Get 193378
+GetLocal 16748
+GetGlobalHighestCommittedVersion 31697
+Get 32428
+GetErasureEncode 157906
+main Get 175223
+GetLocal 17399
+GetGlobalHighestCommittedVersion 37839
+Get 37905
+GetErasureEncode 159298
+main Get 177230
+GetLocal 14403
+GetGlobalHighestCommittedVersion 36368
+Get 36626
+GetErasureEncode 639890
+main Get 655317
+GetLocal 13599
+GetGlobalHighestCommittedVersion 38436
+Get 38510
+GetErasureEncode 231873
+main Get 246043
+GetLocal 12084
+GetGlobalHighestCommittedVersion 38860
+Get 38924
+GetErasureEncode 156827
+main Get 169461
+GetLocal 14582
+GetGlobalHighestCommittedVersion 33064
+Get 33127
+GetErasureEncode 158357
+main Get 173702
+GetLocal 13435
+GetGlobalHighestCommittedVersion 35148
+Get 35222
+GetErasureEncode 158102
+main Get 172126
+GetLocal 42032
+GetGlobalHighestCommittedVersion 50523
+Get 50587
+GetErasureEncode 196855
+main Get 239468
+GetLocal 17008
+GetGlobalHighestCommittedVersion 38746
+Get 38807
+GetErasureEncode 157000
+main Get 174606
+GetLocal 14163
+GetGlobalHighestCommittedVersion 32941
+Get 33477
+GetErasureEncode 158380
+main Get 173223
+GetLocal 13826
+GetGlobalHighestCommittedVersion 39094
+Get 39346
+GetErasureEncode 164247
+main Get 178672
+GetLocal 17304
+GetGlobalHighestCommittedVersion 32303
+Get 32373
+GetErasureEncode 186797
+main Get 204746
+GetLocal 13637
+GetGlobalHighestCommittedVersion 32892
+Get 32966
+GetErasureEncode 176420
+main Get 190701
+GetLocal 20630
+GetGlobalHighestCommittedVersion 34330
+Get 34422
+GetErasureEncode 246796
+main Get 270799
+GetLocal 14546
+GetGlobalHighestCommittedVersion 41080
+Get 41147
+GetErasureEncode 166582
+main Get 181752
+GetLocal 14310
+GetGlobalHighestCommittedVersion 36102
+Get 36164
+GetErasureEncode 159459
+main Get 174353
+GetLocal 11476
+GetGlobalHighestCommittedVersion 39249
+Get 39312
+GetErasureEncode 432556
+main Get 444630
+GetLocal 13600
+GetGlobalHighestCommittedVersion 36734
+Get 36800
+GetErasureEncode 194775
+main Get 208922
+GetLocal 14125
+GetGlobalHighestCommittedVersion 50991
+Get 51068
+GetErasureEncode 162446
+main Get 177109
+GetLocal 12600
+GetGlobalHighestCommittedVersion 36899
+Get 36965
+GetErasureEncode 190796
+main Get 203931
+GetLocal 24574
+GetGlobalHighestCommittedVersion 30904
+Get 30969
+GetErasureEncode 158433
+main Get 183462
+GetLocal 15639
+GetGlobalHighestCommittedVersion 32347
+Get 32479
+GetErasureEncode 157195
+main Get 173355
+GetLocal 14090
+GetGlobalHighestCommittedVersion 37882
+Get 37969
+GetErasureEncode 202958
+main Get 217518
+GetLocal 13522
+GetGlobalHighestCommittedVersion 39897
+Get 39975
+GetErasureEncode 158037
+main Get 171960
+GetLocal 13379
+GetGlobalHighestCommittedVersion 39691
+Get 39761
+GetErasureEncode 208472
+main Get 222349
+GetLocal 20712
+GetGlobalHighestCommittedVersion 32760
+Get 32828
+GetErasureEncode 191879
+main Get 213143
+GetLocal 20709
+GetGlobalHighestCommittedVersion 31467
+Get 31536
+GetErasureEncode 154984
+main Get 176263
+GetLocal 39412
+GetGlobalHighestCommittedVersion 40989
+Get 41059
+GetErasureEncode 276550
+main Get 316554
+GetLocal 11774
+GetGlobalHighestCommittedVersion 39107
+Get 39181
+GetErasureEncode 200903
+main Get 213284
+GetLocal 19540
+GetGlobalHighestCommittedVersion 38864
+Get 39007
+GetErasureEncode 159037
+main Get 179168
+GetLocal 12527
+GetGlobalHighestCommittedVersion 33923
+Get 33995
+GetErasureEncode 186476
+main Get 199576
+GetLocal 14637
+GetGlobalHighestCommittedVersion 31350
+Get 31699
+GetErasureEncode 171918
+main Get 187127
+GetLocal 13811
+GetGlobalHighestCommittedVersion 33451
+Get 33845
+GetErasureEncode 215442
+main Get 229784
+GetLocal 17758
+GetGlobalHighestCommittedVersion 43906
+Get 43981
+GetErasureEncode 202368
+main Get 220651
+GetLocal 15632
+GetGlobalHighestCommittedVersion 38918
+Get 38982
+GetErasureEncode 163079
+main Get 179324
+GetLocal 12324
+GetGlobalHighestCommittedVersion 35797
+Get 35869
+GetErasureEncode 179380
+main Get 192277
+GetLocal 30092
+GetGlobalHighestCommittedVersion 32180
+Get 32245
+GetErasureEncode 210051
+main Get 240730
+GetLocal 16903
+GetGlobalHighestCommittedVersion 32924
+Get 32985
+GetErasureEncode 158316
+main Get 175815
+GetLocal 15852
+GetGlobalHighestCommittedVersion 35982
+Get 36857
+GetErasureEncode 220071
+main Get 236516
+GetLocal 13982
+GetGlobalHighestCommittedVersion 39969
+Get 40545
+GetErasureEncode 241456
+main Get 256060
+GetLocal 15141
+GetGlobalHighestCommittedVersion 32472
+Get 32847
+GetErasureEncode 185712
+main Get 201078
+GetLocal 12407
+GetGlobalHighestCommittedVersion 36996
+Get 37248
+GetErasureEncode 156904
+main Get 169799
+GetLocal 14181
+GetGlobalHighestCommittedVersion 31945
+Get 32015
+GetErasureEncode 333662
+main Get 348250
+GetLocal 15836
+GetGlobalHighestCommittedVersion 40195
+Get 40272
+GetErasureEncode 182581
+main Get 198966
+GetLocal 14624
+GetGlobalHighestCommittedVersion 39776
+Get 39868
+GetErasureEncode 169955
+main Get 185123
+GetLocal 14706
+GetGlobalHighestCommittedVersion 37999
+Get 38070
+GetErasureEncode 158424
+main Get 173669
+GetLocal 15383
+GetGlobalHighestCommittedVersion 42274
+Get 42338
+GetErasureEncode 164750
+main Get 180752
+GetLocal 16151
+GetGlobalHighestCommittedVersion 36456
+Get 36521
+GetErasureEncode 573680
+main Get 590463
+GetLocal 14767
+GetGlobalHighestCommittedVersion 38617
+Get 38692
+GetErasureEncode 163043
+main Get 178315
+GetLocal 14956
+GetGlobalHighestCommittedVersion 39627
+Get 39756
+GetErasureEncode 157306
+main Get 172765
+GetLocal 14937
+GetGlobalHighestCommittedVersion 41938
+Get 42009
+GetErasureEncode 157716
+main Get 173076
+GetLocal 17258
+GetGlobalHighestCommittedVersion 43003
+Get 43066
+GetErasureEncode 280251
+main Get 297990
+GetLocal 12994
+GetGlobalHighestCommittedVersion 45038
+Get 45117
+GetErasureEncode 155666
+main Get 169207
+GetLocal 17148
+GetGlobalHighestCommittedVersion 98466
+Get 98534
+GetErasureEncode 160889
+main Get 178588
+GetLocal 12349
+GetGlobalHighestCommittedVersion 40392
+Get 40459
+GetErasureEncode 156680
+main Get 169848
+GetLocal 51460
+GetGlobalHighestCommittedVersion 39910
+Get 40184
+GetErasureEncode 156305
+main Get 208354
+GetLocal 12374
+GetGlobalHighestCommittedVersion 38459
+Get 39475
+GetErasureEncode 169403
+main Get 182342
+GetLocal 16788
+GetGlobalHighestCommittedVersion 39708
+Get 39772
+GetErasureEncode 176719
+main Get 194088
+GetLocal 17329
+GetGlobalHighestCommittedVersion 40521
+Get 40582
+GetErasureEncode 157525
+main Get 175415
+GetLocal 15391
+GetGlobalHighestCommittedVersion 37856
+Get 37928
+GetErasureEncode 199999
+main Get 215987
+GetLocal 12998
+GetGlobalHighestCommittedVersion 36363
+Get 36836
+GetErasureEncode 176940
+main Get 190519
+GetLocal 15820
+GetGlobalHighestCommittedVersion 37150
+Get 37232
+GetErasureEncode 156844
+main Get 173248
+GetLocal 17716
+GetGlobalHighestCommittedVersion 42061
+Get 42127
+GetErasureEncode 156648
+main Get 174885
+GetLocal 30973
+GetGlobalHighestCommittedVersion 32588
+Get 32684
+GetErasureEncode 164447
+main Get 195925
+GetLocal 17659
+GetGlobalHighestCommittedVersion 39272
+Get 39343
+GetErasureEncode 403423
+main Get 421296
+GetLocal 15601
+GetGlobalHighestCommittedVersion 38727
+Get 38843
+GetErasureEncode 169411
+main Get 185596
+GetLocal 14911
+GetGlobalHighestCommittedVersion 32940
+Get 33007
+GetErasureEncode 159314
+main Get 174836
+GetLocal 15023
+GetGlobalHighestCommittedVersion 33275
+Get 33336
+GetErasureEncode 156270
+main Get 171887
+GetLocal 16594
+GetGlobalHighestCommittedVersion 37487
+Get 37558
+GetErasureEncode 155606
+main Get 172804
+GetLocal 13352
+GetGlobalHighestCommittedVersion 32845
+Get 33073
+GetErasureEncode 270229
+main Get 284179
+GetLocal 18741
+GetGlobalHighestCommittedVersion 36337
+Get 36407
+GetErasureEncode 180786
+main Get 200094
+GetLocal 17021
+GetGlobalHighestCommittedVersion 36067
+Get 36442
+GetErasureEncode 176007
+main Get 193616
+GetLocal 13800
+GetGlobalHighestCommittedVersion 35095
+Get 35170
+GetErasureEncode 251270
+main Get 265680
+GetLocal 12793
+GetGlobalHighestCommittedVersion 34097
+Get 34731
+GetErasureEncode 172328
+main Get 185719
+GetLocal 12292
+GetGlobalHighestCommittedVersion 38160
+Get 38231
+GetErasureEncode 156236
+main Get 169130
+GetLocal 26563
+GetGlobalHighestCommittedVersion 69826
+Get 69899
+GetErasureEncode 157143
+main Get 184328
+GetLocal 19362
+GetGlobalHighestCommittedVersion 113975
+Get 114077
+GetErasureEncode 155623
+main Get 175655
+GetLocal 15525
+GetGlobalHighestCommittedVersion 40135
+Get 40660
+GetErasureEncode 273772
+main Get 289899
+GetLocal 11679
+GetGlobalHighestCommittedVersion 40173
+Get 40243
+GetErasureEncode 159133
+main Get 171403
+GetLocal 138133
+GetGlobalHighestCommittedVersion 37832
+Get 37915
+GetErasureEncode 160268
+main Get 299031
+GetLocal 15330
+GetGlobalHighestCommittedVersion 34705
+Get 35090
+GetErasureEncode 157652
+main Get 173561
+GetLocal 16794
+GetGlobalHighestCommittedVersion 38120
+Get 38232
+GetErasureEncode 172420
+main Get 190032
+GetLocal 14073
+GetGlobalHighestCommittedVersion 41600
+Get 41670
+GetErasureEncode 156999
+main Get 174209
+GetLocal 25073
+GetGlobalHighestCommittedVersion 37880
+Get 39252
+GetErasureEncode 158181
+main Get 183881
+GetLocal 12537
+GetGlobalHighestCommittedVersion 40872
+Get 40936
+GetErasureEncode 158697
+main Get 171808
+GetLocal 16726
+GetGlobalHighestCommittedVersion 32558
+Get 32831
+GetErasureEncode 169840
+main Get 187157
+GetLocal 24987
+GetGlobalHighestCommittedVersion 49318
+Get 49399
+GetErasureEncode 158949
+main Get 184542
+GetLocal 12404
+GetGlobalHighestCommittedVersion 32499
+Get 32560
+GetErasureEncode 157185
+main Get 170167
+GetLocal 12161
+GetGlobalHighestCommittedVersion 44304
+Get 44364
+GetErasureEncode 158794
+main Get 171551
+GetLocal 15971
+GetGlobalHighestCommittedVersion 38779
+Get 38841
+GetErasureEncode 157202
+main Get 173763
+GetLocal 13294
+GetGlobalHighestCommittedVersion 35735
+Get 35903
+GetErasureEncode 159514
+main Get 173425
+GetLocal 31434
+GetGlobalHighestCommittedVersion 38747
+Get 39533
+GetErasureEncode 159651
+main Get 191647
+GetLocal 13929
+GetGlobalHighestCommittedVersion 39795
+Get 39855
+GetErasureEncode 157976
+main Get 172469
+GetLocal 12709
+GetGlobalHighestCommittedVersion 32962
+Get 33031
+GetErasureEncode 156830
+main Get 170133
+GetLocal 14394
+GetGlobalHighestCommittedVersion 31984
+Get 32048
+GetErasureEncode 170070
+main Get 185038
+GetLocal 16582
+GetGlobalHighestCommittedVersion 42726
+Get 42907
+GetErasureEncode 212838
+main Get 230063
+GetLocal 12940
+GetGlobalHighestCommittedVersion 37860
+Get 37926
+GetErasureEncode 158280
+main Get 171810
+GetLocal 14872
+GetGlobalHighestCommittedVersion 31914
+Get 31971
+GetErasureEncode 173939
+main Get 189352
+GetLocal 15100
+GetGlobalHighestCommittedVersion 52124
+Get 52197
+GetErasureEncode 156477
+main Get 172111
+GetLocal 13360
+GetGlobalHighestCommittedVersion 42019
+Get 42078
+GetErasureEncode 156813
+main Get 170640
+GetLocal 12419
+GetGlobalHighestCommittedVersion 31921
+Get 32021
+GetErasureEncode 157547
+main Get 170448
+GetLocal 13292
+GetGlobalHighestCommittedVersion 37900
+Get 37976
+GetErasureEncode 157322
+main Get 171075
+GetLocal 15237
+GetGlobalHighestCommittedVersion 39293
+Get 39360
+GetErasureEncode 167444
+main Get 183040
+GetLocal 48000
+GetGlobalHighestCommittedVersion 34160
+Get 34231
+GetErasureEncode 192948
+main Get 241420
+GetLocal 13150
+GetGlobalHighestCommittedVersion 33875
+Get 33940
+GetErasureEncode 171057
+main Get 184665
+GetLocal 22810
+GetGlobalHighestCommittedVersion 37581
+Get 37649
+GetErasureEncode 157890
+main Get 181185
+GetLocal 13767
+GetGlobalHighestCommittedVersion 40135
+Get 40213
+GetErasureEncode 284443
+main Get 298799
+GetLocal 14740
+GetGlobalHighestCommittedVersion 43161
+Get 43379
+GetErasureEncode 155935
+main Get 171247
+GetLocal 13690
+GetGlobalHighestCommittedVersion 39814
+Get 39884
+GetErasureEncode 157344
+main Get 171635
+GetLocal 12411
+GetGlobalHighestCommittedVersion 37295
+Get 37365
+GetErasureEncode 162472
+main Get 175480
+GetLocal 14991
+GetGlobalHighestCommittedVersion 40923
+Get 41609
+GetErasureEncode 167105
+main Get 182693
+GetLocal 17319
+GetGlobalHighestCommittedVersion 42302
+Get 42760
+GetErasureEncode 182352
+main Get 200293
+GetLocal 18074
+GetGlobalHighestCommittedVersion 40846
+Get 40977
+GetErasureEncode 169535
+main Get 188176
+GetLocal 16468
+GetGlobalHighestCommittedVersion 40164
+Get 40226
+GetErasureEncode 192516
+main Get 209548
+GetLocal 59181
+GetGlobalHighestCommittedVersion 41292
+Get 41371
+GetErasureEncode 156810
+main Get 216561
+GetLocal 14700
+GetGlobalHighestCommittedVersion 38798
+Get 38859
+GetErasureEncode 159072
+main Get 174357
+GetLocal 13300
+GetGlobalHighestCommittedVersion 36137
+Get 36208
+GetErasureEncode 176552
+main Get 190355
+GetLocal 25736
+GetGlobalHighestCommittedVersion 40150
+Get 40215
+GetErasureEncode 157389
+main Get 183630
+GetLocal 12745
+GetGlobalHighestCommittedVersion 40000
+Get 40066
+GetErasureEncode 186303
+main Get 199437
+GetLocal 12572
+GetGlobalHighestCommittedVersion 209287
+Get 209369
+GetErasureEncode 210526
+main Get 223582
+GetLocal 14044
+GetGlobalHighestCommittedVersion 37907
+Get 37974
+GetErasureEncode 157514
+main Get 172203
+GetLocal 16963
+GetGlobalHighestCommittedVersion 37438
+Get 37649
+GetErasureEncode 158446
+main Get 176010
+GetLocal 15122
+GetGlobalHighestCommittedVersion 38191
+Get 38351
+GetErasureEncode 178490
+main Get 194187
+GetLocal 16422
+GetGlobalHighestCommittedVersion 37414
+Get 37475
+GetErasureEncode 189188
+main Get 206182
+GetLocal 13712
+GetGlobalHighestCommittedVersion 41415
+Get 41476
+GetErasureEncode 370845
+main Get 385364
+GetLocal 16068
+GetGlobalHighestCommittedVersion 36294
+Get 36486
+GetErasureEncode 173698
+main Get 190357
+GetLocal 20389
+GetGlobalHighestCommittedVersion 38447
+Get 38519
+GetErasureEncode 217822
+main Get 238801
+GetLocal 23201
+GetGlobalHighestCommittedVersion 47465
+Get 47537
+GetErasureEncode 183277
+main Get 207062
+GetLocal 13259
+GetGlobalHighestCommittedVersion 39473
+Get 39547
+GetErasureEncode 177786
+main Get 191630
+GetLocal 15026
+GetGlobalHighestCommittedVersion 31249
+Get 31443
+GetErasureEncode 157416
+main Get 173370
+GetLocal 16366
+GetGlobalHighestCommittedVersion 39584
+Get 39649
+GetErasureEncode 154927
+main Get 171889
+GetLocal 15747
+GetGlobalHighestCommittedVersion 32451
+Get 32517
+GetErasureEncode 156024
+main Get 172376
+GetLocal 18820
+GetGlobalHighestCommittedVersion 39124
+Get 40090
+GetErasureEncode 156691
+main Get 176114
+GetLocal 13887
+GetGlobalHighestCommittedVersion 47896
+Get 48275
+GetErasureEncode 157300
+main Get 171744
+GetLocal 14259
+GetGlobalHighestCommittedVersion 32472
+Get 32663
+GetErasureEncode 156684
+main Get 171542
+GetLocal 18860
+GetGlobalHighestCommittedVersion 33667
+Get 33778
+GetErasureEncode 222419
+main Get 241905
+GetLocal 19044
+GetGlobalHighestCommittedVersion 42351
+Get 43179
+GetErasureEncode 401084
+main Get 420638
+GetLocal 18076
+GetGlobalHighestCommittedVersion 37243
+Get 37325
+GetErasureEncode 204505
+main Get 223051
+GetLocal 13210
+GetGlobalHighestCommittedVersion 33979
+Get 34047
+GetErasureEncode 157601
+main Get 171313
+GetLocal 17970
+GetGlobalHighestCommittedVersion 36880
+Get 36948
+GetErasureEncode 392892
+main Get 411382
+GetLocal 12206
+GetGlobalHighestCommittedVersion 32554
+Get 32622
+GetErasureEncode 156027
+main Get 168700
+GetLocal 13389
+GetGlobalHighestCommittedVersion 37619
+Get 37685
+GetErasureEncode 157866
+main Get 171760
+GetLocal 62712
+GetGlobalHighestCommittedVersion 43658
+Get 43788
+GetErasureEncode 201773
+main Get 265095
+GetLocal 12096
+GetGlobalHighestCommittedVersion 40136
+Get 40209
+GetErasureEncode 156226
+main Get 168881
+GetLocal 13845
+GetGlobalHighestCommittedVersion 33864
+Get 34541
+GetErasureEncode 300204
+main Get 314485
+GetLocal 15007
+GetGlobalHighestCommittedVersion 33628
+Get 33702
+GetErasureEncode 180260
+main Get 195756
+GetLocal 12250
+GetGlobalHighestCommittedVersion 31087
+Get 31159
+GetErasureEncode 156091
+main Get 168917
+GetLocal 13712
+GetGlobalHighestCommittedVersion 35772
+Get 35847
+GetErasureEncode 157198
+main Get 171527
+GetLocal 14790
+GetGlobalHighestCommittedVersion 32404
+Get 32473
+GetErasureEncode 170191
+main Get 185549
+GetLocal 12314
+GetGlobalHighestCommittedVersion 35463
+Get 35538
+GetErasureEncode 157221
+main Get 170083
+GetLocal 13333
+GetGlobalHighestCommittedVersion 100291
+Get 100430
+GetErasureEncode 156375
+main Get 174941
+GetLocal 39965
+GetGlobalHighestCommittedVersion 37477
+Get 38545
+GetErasureEncode 254974
+main Get 295567
+GetLocal 18719
+GetGlobalHighestCommittedVersion 33748
+Get 33823
+GetErasureEncode 156703
+main Get 180932
+GetLocal 13083
+GetGlobalHighestCommittedVersion 39867
+Get 40481
+GetErasureEncode 191254
+main Get 205384
+GetLocal 17653
+GetGlobalHighestCommittedVersion 38080
+Get 38186
+GetErasureEncode 157236
+main Get 175563
+GetLocal 15201
+GetGlobalHighestCommittedVersion 134765
+Get 134848
+GetErasureEncode 157780
+main Get 173609
+GetLocal 15689
+GetGlobalHighestCommittedVersion 37510
+Get 37577
+GetErasureEncode 158041
+main Get 175194
+GetLocal 22539
+GetGlobalHighestCommittedVersion 42685
+Get 42826
+GetErasureEncode 157662
+main Get 180841
+GetLocal 16400
+GetGlobalHighestCommittedVersion 32727
+Get 32801
+GetErasureEncode 157391
+main Get 174379
+GetLocal 15593
+GetGlobalHighestCommittedVersion 37227
+Get 37287
+GetErasureEncode 158617
+main Get 174804
+GetLocal 12504
+GetGlobalHighestCommittedVersion 31011
+Get 31073
+GetErasureEncode 165048
+main Get 178149
+GetLocal 16424
+GetGlobalHighestCommittedVersion 39678
+Get 39741
+GetErasureEncode 234768
+main Get 251772
+GetLocal 14259
+GetGlobalHighestCommittedVersion 40755
+Get 41012
+GetErasureEncode 327730
+main Get 342566
+GetLocal 13331
+GetGlobalHighestCommittedVersion 31369
+Get 32119
+GetErasureEncode 157532
+main Get 171488
+GetLocal 14122
+GetGlobalHighestCommittedVersion 40218
+Get 40390
+GetErasureEncode 172745
+main Get 187823
+GetLocal 37710
+GetGlobalHighestCommittedVersion 38849
+Get 38920
+GetErasureEncode 158777
+main Get 197063
+GetLocal 13832
+GetGlobalHighestCommittedVersion 36480
+Get 36543
+GetErasureEncode 210705
+main Get 225074
+GetLocal 15439
+GetGlobalHighestCommittedVersion 38705
+Get 38769
+GetErasureEncode 157448
+main Get 173431
+GetLocal 19090
+GetGlobalHighestCommittedVersion 36318
+Get 36856
+GetErasureEncode 189970
+main Get 209570
+GetLocal 11974
+GetGlobalHighestCommittedVersion 38232
+Get 38318
+GetErasureEncode 162778
+main Get 175329
+GetLocal 13277
+GetGlobalHighestCommittedVersion 40534
+Get 40601
+GetErasureEncode 157830
+main Get 171667
+GetLocal 17873
+GetGlobalHighestCommittedVersion 51745
+Get 51888
+GetErasureEncode 338728
+main Get 357195
+GetLocal 15622
+GetGlobalHighestCommittedVersion 37615
+Get 37678
+GetErasureEncode 158465
+main Get 174673
+GetLocal 14816
+GetGlobalHighestCommittedVersion 38918
+Get 38988
+GetErasureEncode 164387
+main Get 179719
+GetLocal 13370
+GetGlobalHighestCommittedVersion 37357
+Get 37424
+GetErasureEncode 158733
+main Get 172708
+GetLocal 68149
+GetGlobalHighestCommittedVersion 39437
+Get 39679
+GetErasureEncode 156131
+main Get 224861
+GetLocal 15541
+GetGlobalHighestCommittedVersion 39090
+Get 39156
+GetErasureEncode 170845
+main Get 186965
+GetLocal 14765
+GetGlobalHighestCommittedVersion 36759
+Get 36900
+GetErasureEncode 170151
+main Get 185470
+GetLocal 13588
+GetGlobalHighestCommittedVersion 40188
+Get 40253
+GetErasureEncode 156678
+main Get 170797
+GetLocal 15370
+GetGlobalHighestCommittedVersion 36295
+Get 36360
+GetErasureEncode 169647
+main Get 185495
+GetLocal 13890
+GetGlobalHighestCommittedVersion 38088
+Get 38156
+GetErasureEncode 157375
+main Get 171851
+GetLocal 14950
+GetGlobalHighestCommittedVersion 47806
+Get 48077
+GetErasureEncode 158438
+main Get 173950
+GetLocal 13140
+GetGlobalHighestCommittedVersion 31916
+Get 31998
+GetErasureEncode 156336
+main Get 169975
+GetLocal 13025
+GetGlobalHighestCommittedVersion 42570
+Get 42701
+GetErasureEncode 159030
+main Get 172583
+GetLocal 19302
+GetGlobalHighestCommittedVersion 36713
+Get 36782
+GetErasureEncode 175923
+main Get 195788
+GetLocal 21989
+GetGlobalHighestCommittedVersion 33807
+Get 33870
+GetErasureEncode 156657
+main Get 178857
+GetLocal 15232
+GetGlobalHighestCommittedVersion 33150
+Get 33211
+GetErasureEncode 155483
+main Get 171281
+GetLocal 19179
+GetGlobalHighestCommittedVersion 34082
+Get 34439
+GetErasureEncode 161159
+main Get 180935
+GetLocal 23968
+GetGlobalHighestCommittedVersion 37635
+Get 37706
+GetErasureEncode 160789
+main Get 185349
+GetLocal 12880
+GetGlobalHighestCommittedVersion 35629
+Get 35833
+GetErasureEncode 329777
+main Get 343267
+GetLocal 29645
+GetGlobalHighestCommittedVersion 37491
+Get 37569
+GetErasureEncode 160920
+main Get 191169
+GetLocal 18287
+GetGlobalHighestCommittedVersion 36746
+Get 36974
+GetErasureEncode 175220
+main Get 194053
+GetLocal 44029
+GetGlobalHighestCommittedVersion 33967
+Get 34040
+GetErasureEncode 173785
+main Get 218410
+GetLocal 12326
+GetGlobalHighestCommittedVersion 38953
+Get 39443
+GetErasureEncode 171037
+main Get 183967
+GetLocal 12219
+GetGlobalHighestCommittedVersion 40576
+Get 40647
+GetErasureEncode 234927
+main Get 247347
+GetLocal 12200
+GetGlobalHighestCommittedVersion 32376
+Get 32445
+GetErasureEncode 257911
+main Get 270708
+GetLocal 12732
+GetGlobalHighestCommittedVersion 44559
+Get 45064
+GetErasureEncode 159976
+main Get 173293
+GetLocal 14584
+GetGlobalHighestCommittedVersion 38178
+Get 38243
+GetErasureEncode 157254
+main Get 172426
+GetLocal 13203
+GetGlobalHighestCommittedVersion 38634
+Get 38853
+GetErasureEncode 157171
+main Get 170929
+GetLocal 21802
+GetGlobalHighestCommittedVersion 42006
+Get 42067
+GetErasureEncode 173494
+main Get 195870
+GetLocal 15552
+GetGlobalHighestCommittedVersion 38891
+Get 38959
+GetErasureEncode 157485
+main Get 173637
+GetLocal 21184
+GetGlobalHighestCommittedVersion 37035
+Get 37097
+GetErasureEncode 156522
+main Get 178250
+GetLocal 13352
+GetGlobalHighestCommittedVersion 44921
+Get 45242
+GetErasureEncode 157837
+main Get 171794
+GetLocal 12598
+GetGlobalHighestCommittedVersion 32593
+Get 32657
+GetErasureEncode 158754
+main Get 171980
+GetLocal 12467
+GetGlobalHighestCommittedVersion 43374
+Get 43451
+GetErasureEncode 156464
+main Get 169503
+GetLocal 12140
+GetGlobalHighestCommittedVersion 34534
+Get 34703
+GetErasureEncode 155745
+main Get 168452
+GetLocal 12538
+GetGlobalHighestCommittedVersion 37758
+Get 38236
+GetErasureEncode 201436
+main Get 214555
+GetLocal 18873
+GetGlobalHighestCommittedVersion 51003
+Get 51072
+GetErasureEncode 155776
+main Get 175232
+GetLocal 13276
+GetGlobalHighestCommittedVersion 36656
+Get 36722
+GetErasureEncode 158432
+main Get 172312
+GetLocal 15945
+GetGlobalHighestCommittedVersion 38035
+Get 38096
+GetErasureEncode 157200
+main Get 173715
+GetLocal 13325
+GetGlobalHighestCommittedVersion 31057
+Get 31771
+GetErasureEncode 155606
+main Get 169572
+GetLocal 12636
+GetGlobalHighestCommittedVersion 40126
+Get 40492
+GetErasureEncode 156687
+main Get 169903
+GetLocal 12513
+GetGlobalHighestCommittedVersion 43316
+Get 43396
+GetErasureEncode 162956
+main Get 176058
+GetLocal 14912
+GetGlobalHighestCommittedVersion 32923
+Get 32984
+GetErasureEncode 157064
+main Get 172551
+GetLocal 36211
+GetGlobalHighestCommittedVersion 39012
+Get 39080
+GetErasureEncode 171991
+main Get 208773
+GetLocal 16984
+GetGlobalHighestCommittedVersion 36942
+Get 37102
+GetErasureEncode 155742
+main Get 173289
+GetLocal 12702
+GetGlobalHighestCommittedVersion 40921
+Get 40982
+GetErasureEncode 156476
+main Get 169740
+GetLocal 11802
+GetGlobalHighestCommittedVersion 52792
+Get 52868
+GetErasureEncode 166478
+main Get 178856
+GetLocal 13367
+GetGlobalHighestCommittedVersion 34436
+Get 37194
+GetErasureEncode 155638
+main Get 169605
+GetLocal 12628
+GetGlobalHighestCommittedVersion 33172
+Get 33244
+GetErasureEncode 163373
+main Get 176600
+GetLocal 13461
+GetGlobalHighestCommittedVersion 34205
+Get 34334
+GetErasureEncode 156788
+main Get 170827
+GetLocal 13861
+GetGlobalHighestCommittedVersion 37509
+Get 37575
+GetErasureEncode 156795
+main Get 171231
+GetLocal 13321
+GetGlobalHighestCommittedVersion 34702
+Get 34764
+GetErasureEncode 156762
+main Get 170663
+GetLocal 12622
+GetGlobalHighestCommittedVersion 38022
+Get 38116
+GetErasureEncode 161024
+main Get 174238
+GetLocal 19588
+GetGlobalHighestCommittedVersion 35342
+Get 35402
+GetErasureEncode 217752
+main Get 240286
+GetLocal 19848
+GetGlobalHighestCommittedVersion 38405
+Get 38510
+GetErasureEncode 159724
+main Get 184360
+GetLocal 15219
+GetGlobalHighestCommittedVersion 40241
+Get 40360
+GetErasureEncode 177063
+main Get 192949
+GetLocal 26086
+GetGlobalHighestCommittedVersion 37456
+Get 37663
+GetErasureEncode 158625
+main Get 185283
+GetLocal 12711
+GetGlobalHighestCommittedVersion 38934
+Get 39471
+GetErasureEncode 158999
+main Get 172293
+GetLocal 52291
+GetGlobalHighestCommittedVersion 38151
+Get 38259
+GetErasureEncode 160958
+main Get 213881
+GetLocal 35168
+GetGlobalHighestCommittedVersion 40283
+Get 40347
+GetErasureEncode 155463
+main Get 191215
+GetLocal 12241
+GetGlobalHighestCommittedVersion 41159
+Get 41232
+GetErasureEncode 156765
+main Get 170024
+GetLocal 13669
+GetGlobalHighestCommittedVersion 37378
+Get 37445
+GetErasureEncode 220886
+main Get 235174
+GetLocal 14064
+GetGlobalHighestCommittedVersion 37463
+Get 37530
+GetErasureEncode 157407
+main Get 172067
+GetLocal 20179
+GetGlobalHighestCommittedVersion 38817
+Get 38890
+GetErasureEncode 155810
+main Get 176593
+GetLocal 17920
+GetGlobalHighestCommittedVersion 42889
+Get 42979
+GetErasureEncode 174275
+main Get 192786
+GetLocal 16686
+GetGlobalHighestCommittedVersion 36934
+Get 37243
+GetErasureEncode 156891
+main Get 174222
+GetLocal 12162
+GetGlobalHighestCommittedVersion 44136
+Get 44203
+GetErasureEncode 157002
+main Get 169764
+GetLocal 17014
+GetGlobalHighestCommittedVersion 36231
+Get 36640
+GetErasureEncode 157563
+main Get 175163
+GetLocal 13425
+GetGlobalHighestCommittedVersion 37142
+Get 37805
+GetErasureEncode 159894
+main Get 173833
+GetLocal 12632
+GetGlobalHighestCommittedVersion 45117
+Get 45189
+GetErasureEncode 165516
+main Get 178753
+GetLocal 13449
+GetGlobalHighestCommittedVersion 97888
+Get 98263
+GetErasureEncode 180696
+main Get 194661
+GetLocal 19622
+GetGlobalHighestCommittedVersion 38013
+Get 38083
+GetErasureEncode 157764
+main Get 177908
+GetLocal 12273
+GetGlobalHighestCommittedVersion 40470
+Get 40543
+GetErasureEncode 176902
+main Get 189659
+GetLocal 15258
+GetGlobalHighestCommittedVersion 41064
+Get 41135
+GetErasureEncode 156597
+main Get 172366
+GetLocal 14203
+GetGlobalHighestCommittedVersion 33366
+Get 33436
+GetErasureEncode 156119
+main Get 170758
+GetLocal 12476
+GetGlobalHighestCommittedVersion 33424
+Get 33504
+GetErasureEncode 158256
+main Get 170944
+GetLocal 42811
+GetGlobalHighestCommittedVersion 33674
+Get 33740
+GetErasureEncode 156172
+main Get 199491
+GetLocal 12423
+GetGlobalHighestCommittedVersion 45523
+Get 45641
+GetErasureEncode 157222
+main Get 170108
+GetLocal 43302
+GetGlobalHighestCommittedVersion 47137
+Get 47216
+GetErasureEncode 255580
+main Get 299127
+GetLocal 18416
+GetGlobalHighestCommittedVersion 35016
+Get 35091
+GetErasureEncode 169366
+main Get 188279
+GetLocal 16912
+GetGlobalHighestCommittedVersion 34525
+Get 34712
+GetErasureEncode 159066
+main Get 176526
+GetLocal 13712
+GetGlobalHighestCommittedVersion 37130
+Get 37196
+GetErasureEncode 168441
+main Get 182380
+GetLocal 14718
+GetGlobalHighestCommittedVersion 32636
+Get 32705
+GetErasureEncode 189057
+main Get 204325
+GetLocal 35127
+GetGlobalHighestCommittedVersion 32377
+Get 32453
+GetErasureEncode 158407
+main Get 194109
+GetLocal 16974
+GetGlobalHighestCommittedVersion 43547
+Get 43612
+GetErasureEncode 170767
+main Get 188317
+GetLocal 17765
+GetGlobalHighestCommittedVersion 32307
+Get 32388
+GetErasureEncode 156232
+main Get 174587
+GetLocal 13626
+GetGlobalHighestCommittedVersion 42232
+Get 42387
+GetErasureEncode 192472
+main Get 206688
+GetLocal 21259
+GetGlobalHighestCommittedVersion 75160
+Get 75228
+GetErasureEncode 174520
+main Get 196379
+GetLocal 14797
+GetGlobalHighestCommittedVersion 35862
+Get 35929
+GetErasureEncode 158612
+main Get 173953
+GetLocal 17007
+GetGlobalHighestCommittedVersion 39360
+Get 39426
+GetErasureEncode 165612
+main Get 183057
+GetLocal 14898
+GetGlobalHighestCommittedVersion 36259
+Get 36347
+GetErasureEncode 171194
+main Get 186527
+GetLocal 17267
+GetGlobalHighestCommittedVersion 40829
+Get 40909
+GetErasureEncode 157054
+main Get 174786
+GetLocal 21974
+GetGlobalHighestCommittedVersion 33386
+Get 33461
+GetErasureEncode 160729
+main Get 183246
+GetLocal 13778
+GetGlobalHighestCommittedVersion 36864
+Get 36940
+GetErasureEncode 163394
+main Get 177848
+GetLocal 11300
+GetGlobalHighestCommittedVersion 32905
+Get 32978
+GetErasureEncode 426782
+main Get 438652
+GetLocal 18953
+GetGlobalHighestCommittedVersion 35942
+Get 36010
+GetErasureEncode 157538
+main Get 177060
+GetLocal 14010
+GetGlobalHighestCommittedVersion 43555
+Get 43625
+GetErasureEncode 159275
+main Get 173887
+GetLocal 12370
+GetGlobalHighestCommittedVersion 38390
+Get 38457
+GetErasureEncode 158921
+main Get 171865
+GetLocal 12242
+GetGlobalHighestCommittedVersion 39871
+Get 39932
+GetErasureEncode 176928
+main Get 189745
+GetLocal 12665
+GetGlobalHighestCommittedVersion 45842
+Get 46418
+GetErasureEncode 156528
+main Get 169788
+GetLocal 11975
+GetGlobalHighestCommittedVersion 34708
+Get 34768
+GetErasureEncode 171792
+main Get 184387
+GetLocal 26853
+GetGlobalHighestCommittedVersion 38236
+Get 38304
+GetErasureEncode 162362
+main Get 189592
+GetLocal 12679
+GetGlobalHighestCommittedVersion 39806
+Get 39891
+GetErasureEncode 157078
+main Get 170125
+GetLocal 11577
+GetGlobalHighestCommittedVersion 39279
+Get 39389
+GetErasureEncode 161825
+main Get 173910
+GetLocal 11638
+GetGlobalHighestCommittedVersion 38964
+Get 39041
+GetErasureEncode 156657
+main Get 168789
+GetLocal 15871
+GetGlobalHighestCommittedVersion 37856
+Get 37934
+GetErasureEncode 157447
+main Get 173792
+GetLocal 15192
+GetGlobalHighestCommittedVersion 37831
+Get 37898
+GetErasureEncode 157464
+main Get 173172
+GetLocal 12242
+GetGlobalHighestCommittedVersion 36121
+Get 36193
+GetErasureEncode 156968
+main Get 169770
+GetLocal 16782
+GetGlobalHighestCommittedVersion 33104
+Get 33225
+GetErasureEncode 168881
+main Get 186290
+GetLocal 14278
+GetGlobalHighestCommittedVersion 38351
+Get 38714
+GetErasureEncode 156617
+main Get 171461
+GetLocal 18557
+GetGlobalHighestCommittedVersion 50801
+Get 50869
+GetErasureEncode 328966
+main Get 348354
+GetLocal 18155
+GetGlobalHighestCommittedVersion 32577
+Get 32640
+GetErasureEncode 156511
+main Get 175243
+GetLocal 11603
+GetGlobalHighestCommittedVersion 40704
+Get 40812
+GetErasureEncode 158982
+main Get 171193
+GetLocal 17533
+GetGlobalHighestCommittedVersion 36262
+Get 36418
+GetErasureEncode 170047
+main Get 188184
+GetLocal 16969
+GetGlobalHighestCommittedVersion 34920
+Get 34989
+GetErasureEncode 157267
+main Get 174832
+GetLocal 15331
+GetGlobalHighestCommittedVersion 35362
+Get 35903
+GetErasureEncode 155850
+main Get 171772
+GetLocal 12138
+GetGlobalHighestCommittedVersion 33037
+Get 33112
+GetErasureEncode 272755
+main Get 285479
+GetLocal 16250
+GetGlobalHighestCommittedVersion 37798
+Get 37881
+GetErasureEncode 156970
+main Get 173810
+GetLocal 14712
+GetGlobalHighestCommittedVersion 38535
+Get 38598
+GetErasureEncode 156091
+main Get 171358
+GetLocal 12519
+GetGlobalHighestCommittedVersion 36776
+Get 36844
+GetErasureEncode 196258
+main Get 209337
+GetLocal 12248
+GetGlobalHighestCommittedVersion 38855
+Get 38918
+GetErasureEncode 204456
+main Get 217260
+GetLocal 13880
+GetGlobalHighestCommittedVersion 37451
+Get 37512
+GetErasureEncode 209578
+main Get 224018
+GetLocal 12529
+GetGlobalHighestCommittedVersion 36871
+Get 36943
+GetErasureEncode 159468
+main Get 172583
+GetLocal 15674
+GetGlobalHighestCommittedVersion 43477
+Get 44203
+GetErasureEncode 161556
+main Get 177804
+GetLocal 12896
+GetGlobalHighestCommittedVersion 38530
+Get 38597
+GetErasureEncode 529772
+main Get 543306
+GetLocal 22448
+GetGlobalHighestCommittedVersion 39965
+Get 40539
+GetErasureEncode 155882
+main Get 178553
+GetLocal 13574
+GetGlobalHighestCommittedVersion 38574
+Get 38636
+GetErasureEncode 229404
+main Get 243571
+GetLocal 16761
+GetGlobalHighestCommittedVersion 35914
+Get 35975
+GetErasureEncode 156558
+main Get 173908
+GetLocal 17215
+GetGlobalHighestCommittedVersion 35130
+Get 35210
+GetErasureEncode 165840
+main Get 183647
+GetLocal 15071
+GetGlobalHighestCommittedVersion 38174
+Get 38379
+GetErasureEncode 157295
+main Get 172940
+GetLocal 13574
+GetGlobalHighestCommittedVersion 37697
+Get 37765
+GetErasureEncode 156466
+main Get 171022
+GetLocal 12311
+GetGlobalHighestCommittedVersion 38342
+Get 38730
+GetErasureEncode 162846
+main Get 175817
+GetLocal 11947
+GetGlobalHighestCommittedVersion 39707
+Get 39824
+GetErasureEncode 157012
+main Get 169591
+GetLocal 12927
+GetGlobalHighestCommittedVersion 36139
+Get 36206
+GetErasureEncode 159819
+main Get 172980
+GetLocal 23242
+GetGlobalHighestCommittedVersion 38571
+Get 38645
+GetErasureEncode 178146
+main Get 202017
+GetLocal 15855
+GetGlobalHighestCommittedVersion 37176
+Get 37259
+GetErasureEncode 155250
+main Get 171780
+GetLocal 11883
+GetGlobalHighestCommittedVersion 35876
+Get 36172
+GetErasureEncode 208918
+main Get 221449
+GetLocal 13827
+GetGlobalHighestCommittedVersion 43413
+Get 43688
+GetErasureEncode 182823
+main Get 197270
+GetLocal 13961
+GetGlobalHighestCommittedVersion 36713
+Get 36791
+GetErasureEncode 156818
+main Get 171374
+GetLocal 15195
+GetGlobalHighestCommittedVersion 31794
+Get 32206
+GetErasureEncode 158098
+main Get 173771
+GetLocal 12187
+GetGlobalHighestCommittedVersion 32783
+Get 32853
+GetErasureEncode 174316
+main Get 187359
+GetLocal 20013
+GetGlobalHighestCommittedVersion 47848
+Get 47952
+GetErasureEncode 157628
+main Get 178895
+GetLocal 18218
+GetGlobalHighestCommittedVersion 37016
+Get 37115
+GetErasureEncode 167136
+main Get 186442
+GetLocal 16392
+GetGlobalHighestCommittedVersion 38052
+Get 38250
+GetErasureEncode 161293
+main Get 178478
+GetLocal 14341
+GetGlobalHighestCommittedVersion 58861
+Get 59203
+GetErasureEncode 175106
+main Get 190057
+GetLocal 14282
+GetGlobalHighestCommittedVersion 38522
+Get 38583
+GetErasureEncode 156516
+main Get 171345
+GetLocal 15886
+GetGlobalHighestCommittedVersion 33874
+Get 33943
+GetErasureEncode 179470
+main Get 195936
+GetLocal 11377
+GetGlobalHighestCommittedVersion 31984
+Get 32056
+GetErasureEncode 158411
+main Get 170364
+GetLocal 14392
+GetGlobalHighestCommittedVersion 33448
+Get 33511
+GetErasureEncode 215632
+main Get 230600
+GetLocal 18346
+GetGlobalHighestCommittedVersion 34943
+Get 35014
+GetErasureEncode 160539
+main Get 179355
+GetLocal 15395
+GetGlobalHighestCommittedVersion 41440
+Get 41506
+GetErasureEncode 157040
+main Get 172885
+GetLocal 17600
+GetGlobalHighestCommittedVersion 44870
+Get 44944
+GetErasureEncode 156171
+main Get 174302
+GetLocal 12906
+GetGlobalHighestCommittedVersion 38559
+Get 38635
+GetErasureEncode 156799
+main Get 170221
+GetLocal 15855
+GetGlobalHighestCommittedVersion 31616
+Get 31679
+GetErasureEncode 159963
+main Get 176377
+GetLocal 21138
+GetGlobalHighestCommittedVersion 34872
+Get 34939
+GetErasureEncode 197166
+main Get 218863
+GetLocal 41142
+GetGlobalHighestCommittedVersion 31542
+Get 31614
+GetErasureEncode 157167
+main Get 198856
+GetLocal 14424
+GetGlobalHighestCommittedVersion 38609
+Get 38792
+GetErasureEncode 157347
+main Get 172327
+GetLocal 15998
+GetGlobalHighestCommittedVersion 38257
+Get 38327
+GetErasureEncode 156292
+main Get 172836
+GetLocal 14883
+GetGlobalHighestCommittedVersion 33114
+Get 33176
+GetErasureEncode 217214
+main Get 232682
+GetLocal 14275
+GetGlobalHighestCommittedVersion 46226
+Get 46984
+GetErasureEncode 160747
+main Get 175645
+GetLocal 12944
+GetGlobalHighestCommittedVersion 37203
+Get 37377
+GetErasureEncode 156728
+main Get 170284
+GetLocal 13735
+GetGlobalHighestCommittedVersion 34302
+Get 34366
+GetErasureEncode 166316
+main Get 180632
+GetLocal 12526
+GetGlobalHighestCommittedVersion 36723
+Get 36786
+GetErasureEncode 185622
+main Get 198647
+GetLocal 12480
+GetGlobalHighestCommittedVersion 32884
+Get 32952
+GetErasureEncode 159693
+main Get 172679
+GetLocal 14583
+GetGlobalHighestCommittedVersion 35397
+Get 35465
+GetErasureEncode 218250
+main Get 233411
+GetLocal 16066
+GetGlobalHighestCommittedVersion 33562
+Get 33632
+GetErasureEncode 161830
+main Get 178492
+GetLocal 27335
+GetGlobalHighestCommittedVersion 31423
+Get 32004
+GetErasureEncode 159133
+main Get 187067
+GetLocal 15501
+GetGlobalHighestCommittedVersion 31725
+Get 31958
+GetErasureEncode 157265
+main Get 173341
+GetLocal 13944
+GetGlobalHighestCommittedVersion 39272
+Get 39752
+GetErasureEncode 225354
+main Get 239973
+GetLocal 14430
+GetGlobalHighestCommittedVersion 32558
+Get 32902
+GetErasureEncode 166202
+main Get 181145
+GetLocal 24483
+GetGlobalHighestCommittedVersion 70296
+Get 70364
+GetErasureEncode 156403
+main Get 181441
+GetLocal 17110
+GetGlobalHighestCommittedVersion 35193
+Get 35263
+GetErasureEncode 156548
+main Get 174202
+GetLocal 12882
+GetGlobalHighestCommittedVersion 36202
+Get 36269
+GetErasureEncode 158261
+main Get 171684
+GetLocal 19445
+GetGlobalHighestCommittedVersion 31188
+Get 31251
+GetErasureEncode 168458
+main Get 188495
+GetLocal 12737
+GetGlobalHighestCommittedVersion 37496
+Get 37564
+GetErasureEncode 180856
+main Get 194336
+GetLocal 15371
+GetGlobalHighestCommittedVersion 31434
+Get 31504
+GetErasureEncode 175168
+main Get 191129
+GetLocal 16190
+GetGlobalHighestCommittedVersion 37864
+Get 37926
+GetErasureEncode 160541
+main Get 177292
+GetLocal 13072
+GetGlobalHighestCommittedVersion 33696
+Get 33823
+GetErasureEncode 155687
+main Get 169311
+GetLocal 15535
+GetGlobalHighestCommittedVersion 47147
+Get 47225
+GetErasureEncode 158001
+main Get 174039
+GetLocal 14199
+GetGlobalHighestCommittedVersion 31833
+Get 31898
+GetErasureEncode 156793
+main Get 171475
+GetLocal 15495
+GetGlobalHighestCommittedVersion 34346
+Get 34414
+GetErasureEncode 157557
+main Get 173557
+GetLocal 14387
+GetGlobalHighestCommittedVersion 39892
+Get 39966
+GetErasureEncode 157706
+main Get 172562
+GetLocal 17567
+GetGlobalHighestCommittedVersion 38839
+Get 38906
+GetErasureEncode 157023
+main Get 175112
+GetLocal 17759
+GetGlobalHighestCommittedVersion 42064
+Get 42157
+GetErasureEncode 156658
+main Get 174997
+GetLocal 12596
+GetGlobalHighestCommittedVersion 40439
+Get 40747
+GetErasureEncode 156829
+main Get 170006
+GetLocal 14868
+GetGlobalHighestCommittedVersion 37272
+Get 37338
+GetErasureEncode 158682
+main Get 174065
+GetLocal 15030
+GetGlobalHighestCommittedVersion 38138
+Get 38205
+GetErasureEncode 495085
+main Get 510687
+GetLocal 17116
+GetGlobalHighestCommittedVersion 37093
+Get 37158
+GetErasureEncode 197671
+main Get 215347
+GetLocal 12829
+GetGlobalHighestCommittedVersion 38136
+Get 38203
+GetErasureEncode 155989
+main Get 169365
+GetLocal 17314
+GetGlobalHighestCommittedVersion 37891
+Get 37962
+GetErasureEncode 158952
+main Get 176842
+GetLocal 14836
+GetGlobalHighestCommittedVersion 36948
+Get 37018
+GetErasureEncode 166963
+main Get 182416
+GetLocal 15799
+GetGlobalHighestCommittedVersion 38121
+Get 38460
+GetErasureEncode 155410
+main Get 171726
+GetLocal 17588
+GetGlobalHighestCommittedVersion 37138
+Get 37222
+GetErasureEncode 157323
+main Get 175440
+GetLocal 93460
+GetGlobalHighestCommittedVersion 39644
+Get 39705
+GetErasureEncode 321801
+main Get 415784
+GetLocal 13201
+GetGlobalHighestCommittedVersion 39409
+Get 39472
+GetErasureEncode 156148
+main Get 169928
+GetLocal 12638
+GetGlobalHighestCommittedVersion 38471
+Get 39618
+GetErasureEncode 157300
+main Get 170542
+GetLocal 16040
+GetGlobalHighestCommittedVersion 39365
+Get 39438
+GetErasureEncode 194444
+main Get 211098
+GetLocal 13659
+GetGlobalHighestCommittedVersion 43788
+Get 43971
+GetErasureEncode 155768
+main Get 170030
+GetLocal 12291
+GetGlobalHighestCommittedVersion 39791
+Get 39855
+GetErasureEncode 156485
+main Get 169391
+GetLocal 12628
+GetGlobalHighestCommittedVersion 38722
+Get 38784
+GetErasureEncode 154972
+main Get 168471
+GetLocal 13033
+GetGlobalHighestCommittedVersion 33947
+Get 34176
+GetErasureEncode 158183
+main Get 171786
+GetLocal 14637
+GetGlobalHighestCommittedVersion 41488
+Get 41548
+GetErasureEncode 500971
+main Get 516211
+GetLocal 15209
+GetGlobalHighestCommittedVersion 41140
+Get 41586
+GetErasureEncode 159771
+main Get 175559
+GetLocal 21998
+GetGlobalHighestCommittedVersion 32570
+Get 32633
+GetErasureEncode 155944
+main Get 178531
+GetLocal 13598
+GetGlobalHighestCommittedVersion 38090
+Get 39003
+GetErasureEncode 157293
+main Get 171481
+GetLocal 14446
+GetGlobalHighestCommittedVersion 37021
+Get 37267
+GetErasureEncode 156359
+main Get 171398
+GetLocal 15228
+GetGlobalHighestCommittedVersion 33598
+Get 34191
+GetErasureEncode 161698
+main Get 177508
+GetLocal 13311
+GetGlobalHighestCommittedVersion 42896
+Get 42963
+GetErasureEncode 176246
+main Get 190123
+GetLocal 14944
+GetGlobalHighestCommittedVersion 33212
+Get 33290
+GetErasureEncode 157753
+main Get 173889
+GetLocal 12985
+GetGlobalHighestCommittedVersion 37206
+Get 37586
+GetErasureEncode 158271
+main Get 171813
+GetLocal 12472
+GetGlobalHighestCommittedVersion 38742
+Get 38816
+GetErasureEncode 156261
+main Get 169479
+GetLocal 27821
+GetGlobalHighestCommittedVersion 32768
+Get 32869
+GetErasureEncode 191263
+main Get 221203
+GetLocal 12071
+GetGlobalHighestCommittedVersion 32378
+Get 32480
+GetErasureEncode 155814
+main Get 168509
+GetLocal 15165
+GetGlobalHighestCommittedVersion 37324
+Get 37628
+GetErasureEncode 157083
+main Get 172890
+GetLocal 17494
+GetGlobalHighestCommittedVersion 37330
+Get 37579
+GetErasureEncode 166313
+main Get 184409
+GetLocal 13804
+GetGlobalHighestCommittedVersion 32278
+Get 32351
+GetErasureEncode 344256
+main Get 358714
+GetLocal 19813
+GetGlobalHighestCommittedVersion 40204
+Get 40768
+GetErasureEncode 158836
+main Get 179271
+GetLocal 18978
+GetGlobalHighestCommittedVersion 36601
+Get 36919
+GetErasureEncode 158025
+main Get 177628
+GetLocal 25541
+GetGlobalHighestCommittedVersion 36168
+Get 36253
+GetErasureEncode 164036
+main Get 190202
+GetLocal 18557
+GetGlobalHighestCommittedVersion 58083
+Get 58279
+GetErasureEncode 157400
+main Get 176538
+GetLocal 13135
+GetGlobalHighestCommittedVersion 49484
+Get 49557
+GetErasureEncode 175675
+main Get 189420
+GetLocal 14575
+GetGlobalHighestCommittedVersion 32337
+Get 32475
+GetErasureEncode 156657
+main Get 171685
+GetLocal 16119
+GetGlobalHighestCommittedVersion 37568
+Get 37690
+GetErasureEncode 156257
+main Get 172865
+GetLocal 21711
+GetGlobalHighestCommittedVersion 33293
+Get 33356
+GetErasureEncode 155961
+main Get 178183
+GetLocal 12425
+GetGlobalHighestCommittedVersion 32056
+Get 32120
+GetErasureEncode 157424
+main Get 170466
+GetLocal 14848
+GetGlobalHighestCommittedVersion 41258
+Get 41321
+GetErasureEncode 191581
+main Get 206672
+GetLocal 17881
+GetGlobalHighestCommittedVersion 33811
+Get 33881
+GetErasureEncode 185797
+main Get 204261
+GetLocal 14597
+GetGlobalHighestCommittedVersion 37727
+Get 37846
+GetErasureEncode 154935
+main Get 170156
+GetLocal 16010
+GetGlobalHighestCommittedVersion 48821
+Get 48884
+GetErasureEncode 156413
+main Get 172971
+GetLocal 13920
+GetGlobalHighestCommittedVersion 34915
+Get 35161
+GetErasureEncode 155896
+main Get 170362
+GetLocal 15167
+GetGlobalHighestCommittedVersion 37193
+Get 37253
+GetErasureEncode 271063
+main Get 286795
+GetLocal 12646
+GetGlobalHighestCommittedVersion 31944
+Get 32006
+GetErasureEncode 155815
+main Get 169039
+GetLocal 15757
+GetGlobalHighestCommittedVersion 34505
+Get 34728
+GetErasureEncode 219933
+main Get 236221
+GetLocal 13978
+GetGlobalHighestCommittedVersion 38603
+Get 38669
+GetErasureEncode 244132
+main Get 258645
+GetLocal 13564
+GetGlobalHighestCommittedVersion 37273
+Get 37342
+GetErasureEncode 157936
+main Get 172018
+GetLocal 12290
+GetGlobalHighestCommittedVersion 35761
+Get 35826
+GetErasureEncode 165726
+main Get 178626
+GetLocal 12123
+GetGlobalHighestCommittedVersion 39027
+Get 39088
+GetErasureEncode 156848
+main Get 169571
+GetLocal 12388
+GetGlobalHighestCommittedVersion 32260
+Get 32323
+GetErasureEncode 155691
+main Get 168797
+GetLocal 16128
+GetGlobalHighestCommittedVersion 34290
+Get 34553
+GetErasureEncode 204914
+main Get 221603
+GetLocal 15323
+GetGlobalHighestCommittedVersion 44151
+Get 44216
+GetErasureEncode 156952
+main Get 172865
+GetLocal 77690
+GetGlobalHighestCommittedVersion 36268
+Get 36336
+GetErasureEncode 157024
+main Get 235269
+GetLocal 13496
+GetGlobalHighestCommittedVersion 35094
+Get 35167
+GetErasureEncode 241717
+main Get 255588
+GetLocal 12865
+GetGlobalHighestCommittedVersion 36928
+Get 36994
+GetErasureEncode 221198
+main Get 234521
+GetLocal 14379
+GetGlobalHighestCommittedVersion 35177
+Get 35241
+GetErasureEncode 156444
+main Get 171284
+GetLocal 14241
+GetGlobalHighestCommittedVersion 33390
+Get 33459
+GetErasureEncode 156991
+main Get 171771
+GetLocal 13500
+GetGlobalHighestCommittedVersion 40150
+Get 40214
+GetErasureEncode 185811
+main Get 199743
+GetLocal 17068
+GetGlobalHighestCommittedVersion 37991
+Get 38061
+GetErasureEncode 172924
+main Get 190548
+GetLocal 12042
+GetGlobalHighestCommittedVersion 39204
+Get 39399
+GetErasureEncode 186031
+main Get 198616
+GetLocal 14584
+GetGlobalHighestCommittedVersion 39182
+Get 39256
+GetErasureEncode 156772
+main Get 171877
+GetLocal 13488
+GetGlobalHighestCommittedVersion 38282
+Get 38356
+GetErasureEncode 156298
+main Get 170308
+GetLocal 15199
+GetGlobalHighestCommittedVersion 36843
+Get 36905
+GetErasureEncode 158685
+main Get 174425
+GetLocal 12952
+GetGlobalHighestCommittedVersion 37245
+Get 37311
+GetErasureEncode 209664
+main Get 223190
+GetLocal 11411
+GetGlobalHighestCommittedVersion 39207
+Get 39264
+GetErasureEncode 156950
+main Get 168927
+GetLocal 15720
+GetGlobalHighestCommittedVersion 41800
+Get 41872
+GetErasureEncode 192921
+main Get 209218
+GetLocal 15253
+GetGlobalHighestCommittedVersion 40686
+Get 40820
+GetErasureEncode 157022
+main Get 172887
+GetLocal 13312
+GetGlobalHighestCommittedVersion 40310
+Get 40533
+GetErasureEncode 266253
+main Get 280152
+GetLocal 11882
+GetGlobalHighestCommittedVersion 42215
+Get 42280
+GetErasureEncode 156621
+main Get 169123
+GetLocal 12764
+GetGlobalHighestCommittedVersion 40334
+Get 40411
+GetErasureEncode 158202
+main Get 171554
+GetLocal 13168
+GetGlobalHighestCommittedVersion 37078
+Get 37144
+GetErasureEncode 158239
+main Get 171952
+GetLocal 14192
+GetGlobalHighestCommittedVersion 39629
+Get 39704
+GetErasureEncode 367996
+main Get 382781
+GetLocal 15826
+GetGlobalHighestCommittedVersion 46552
+Get 46626
+GetErasureEncode 157035
+main Get 173438
+GetLocal 18511
+GetGlobalHighestCommittedVersion 38692
+Get 38834
+GetErasureEncode 154952
+main Get 174100
+GetLocal 12595
+GetGlobalHighestCommittedVersion 47480
+Get 47545
+GetErasureEncode 157704
+main Get 170849
+GetLocal 18423
+GetGlobalHighestCommittedVersion 32952
+Get 33024
+GetErasureEncode 162176
+main Get 181053
+GetLocal 12215
+GetGlobalHighestCommittedVersion 38362
+Get 38439
+GetErasureEncode 157439
+main Get 170158
+GetLocal 13148
+GetGlobalHighestCommittedVersion 38352
+Get 38419
+GetErasureEncode 157321
+main Get 171116
+GetLocal 12877
+GetGlobalHighestCommittedVersion 32718
+Get 32834
+GetErasureEncode 157223
+main Get 170752
+GetLocal 15692
+GetGlobalHighestCommittedVersion 42400
+Get 42825
+GetErasureEncode 156643
+main Get 172905
+GetLocal 16464
+GetGlobalHighestCommittedVersion 32610
+Get 32671
+GetErasureEncode 190460
+main Get 207484
+GetLocal 13081
+GetGlobalHighestCommittedVersion 32809
+Get 33724
+GetErasureEncode 180447
+main Get 194108
+GetLocal 17434
+GetGlobalHighestCommittedVersion 37231
+Get 37313
+GetErasureEncode 158751
+main Get 176745
+GetLocal 15289
+GetGlobalHighestCommittedVersion 41074
+Get 41519
+GetErasureEncode 174367
+main Get 190209
+GetLocal 14471
+GetGlobalHighestCommittedVersion 32250
+Get 32466
+GetErasureEncode 186119
+main Get 201131
+GetLocal 12527
+GetGlobalHighestCommittedVersion 48627
+Get 48754
+GetErasureEncode 155734
+main Get 168820
+GetLocal 22294
+GetGlobalHighestCommittedVersion 42751
+Get 42824
+GetErasureEncode 156604
+main Get 179503
+GetLocal 15880
+GetGlobalHighestCommittedVersion 32380
+Get 32446
+GetErasureEncode 155269
+main Get 171754
+GetLocal 12889
+GetGlobalHighestCommittedVersion 31162
+Get 31227
+GetErasureEncode 177477
+main Get 190981
+GetLocal 14668
+GetGlobalHighestCommittedVersion 31622
+Get 31739
+GetErasureEncode 516280
+main Get 531611
+GetLocal 13016
+GetGlobalHighestCommittedVersion 46753
+Get 46829
+GetErasureEncode 156130
+main Get 169354
+GetLocal 13402
+GetGlobalHighestCommittedVersion 47892
+Get 48176
+GetErasureEncode 156283
+main Get 170426
+GetLocal 16593
+GetGlobalHighestCommittedVersion 37089
+Get 37198
+GetErasureEncode 156426
+main Get 173661
+GetLocal 16642
+GetGlobalHighestCommittedVersion 41359
+Get 41767
+GetErasureEncode 156910
+main Get 174169
+GetLocal 16820
+GetGlobalHighestCommittedVersion 50173
+Get 50247
+GetErasureEncode 156449
+main Get 173830
+GetLocal 12955
+GetGlobalHighestCommittedVersion 34975
+Get 35080
+GetErasureEncode 156146
+main Get 169730
+GetLocal 19076
+GetGlobalHighestCommittedVersion 34892
+Get 34964
+GetErasureEncode 165924
+main Get 185620
+GetLocal 12761
+GetGlobalHighestCommittedVersion 32734
+Get 32803
+GetErasureEncode 176226
+main Get 189582
+GetLocal 16647
+GetGlobalHighestCommittedVersion 37252
+Get 37698
+GetErasureEncode 155510
+main Get 172761
+GetLocal 15418
+GetGlobalHighestCommittedVersion 36861
+Get 36996
+GetErasureEncode 156725
+main Get 172750
+GetLocal 18729
+GetGlobalHighestCommittedVersion 34262
+Get 34729
+GetErasureEncode 157246
+main Get 176574
+GetLocal 16147
+GetGlobalHighestCommittedVersion 36496
+Get 36559
+GetErasureEncode 156793
+main Get 173551
+GetLocal 15454
+GetGlobalHighestCommittedVersion 32954
+Get 33018
+GetErasureEncode 155281
+main Get 171332
+GetLocal 12207
+GetGlobalHighestCommittedVersion 41384
+Get 41483
+GetErasureEncode 156667
+main Get 169402
+GetLocal 14845
+GetGlobalHighestCommittedVersion 38804
+Get 38929
+GetErasureEncode 156321
+main Get 171698
+GetLocal 22642
+GetGlobalHighestCommittedVersion 31138
+Get 31208
+GetErasureEncode 154947
+main Get 178014
+GetLocal 13000
+GetGlobalHighestCommittedVersion 36537
+Get 36620
+GetErasureEncode 157075
+main Get 171019
+GetLocal 16603
+GetGlobalHighestCommittedVersion 38496
+Get 38572
+GetErasureEncode 168898
+main Get 186099
+GetLocal 12264
+GetGlobalHighestCommittedVersion 32099
+Get 32169
+GetErasureEncode 156086
+main Get 168845
+GetLocal 17898
+GetGlobalHighestCommittedVersion 41783
+Get 41861
+GetErasureEncode 168787
+main Get 187259
+GetLocal 12409
+GetGlobalHighestCommittedVersion 36417
+Get 36486
+GetErasureEncode 183103
+main Get 196072
+GetLocal 15423
+GetGlobalHighestCommittedVersion 38793
+Get 38923
+GetErasureEncode 156230
+main Get 172218
+GetLocal 13736
+GetGlobalHighestCommittedVersion 33102
+Get 33172
+GetErasureEncode 192675
+main Get 207010
+GetLocal 13532
+GetGlobalHighestCommittedVersion 37138
+Get 37200
+GetErasureEncode 157691
+main Get 171811
+GetLocal 15712
+GetGlobalHighestCommittedVersion 33430
+Get 33493
+GetErasureEncode 657884
+main Get 674046
+GetLocal 15284
+GetGlobalHighestCommittedVersion 39113
+Get 39194
+GetErasureEncode 248908
+main Get 264639
+GetLocal 13115
+GetGlobalHighestCommittedVersion 39842
+Get 39912
+GetErasureEncode 156326
+main Get 169976
+GetLocal 18010
+GetGlobalHighestCommittedVersion 64494
+Get 64571
+GetErasureEncode 259614
+main Get 278189
+GetLocal 14566
+GetGlobalHighestCommittedVersion 40386
+Get 40457
+GetErasureEncode 211444
+main Get 226631
+GetLocal 12157
+GetGlobalHighestCommittedVersion 36485
+Get 36770
+GetErasureEncode 156305
+main Get 169051
+GetLocal 16373
+GetGlobalHighestCommittedVersion 36793
+Get 36925
+GetErasureEncode 157547
+main Get 174472
+GetLocal 13941
+GetGlobalHighestCommittedVersion 39036
+Get 39105
+GetErasureEncode 282239
+main Get 296750
+GetLocal 14175
+GetGlobalHighestCommittedVersion 36773
+Get 37258
+GetErasureEncode 157841
+main Get 172570
+GetLocal 12770
+GetGlobalHighestCommittedVersion 36572
+Get 36651
+GetErasureEncode 161919
+main Get 175221
+GetLocal 13039
+GetGlobalHighestCommittedVersion 40759
+Get 40827
+GetErasureEncode 167168
+main Get 180830
+GetLocal 13317
+GetGlobalHighestCommittedVersion 38894
+Get 38963
+GetErasureEncode 156185
+main Get 170083
+GetLocal 13770
+GetGlobalHighestCommittedVersion 39534
+Get 39602
+GetErasureEncode 156926
+main Get 171245
+GetLocal 15900
+GetGlobalHighestCommittedVersion 38924
+Get 39304
+GetErasureEncode 155438
+main Get 171893
+GetLocal 14829
+GetGlobalHighestCommittedVersion 38742
+Get 38804
+GetErasureEncode 181300
+main Get 196530
+GetLocal 14990
+GetGlobalHighestCommittedVersion 40939
+Get 41006
+GetErasureEncode 187524
+main Get 202855
+GetLocal 12660
+GetGlobalHighestCommittedVersion 36636
+Get 36728
+GetErasureEncode 157704
+main Get 170778
+GetLocal 17040
+GetGlobalHighestCommittedVersion 32815
+Get 32888
+GetErasureEncode 156314
+main Get 173858
+GetLocal 36049
+GetGlobalHighestCommittedVersion 45917
+Get 45990
+GetErasureEncode 161731
+main Get 198209
+GetLocal 56499
+GetGlobalHighestCommittedVersion 37443
+Get 37509
+GetErasureEncode 178379
+main Get 235492
+GetLocal 12677
+GetGlobalHighestCommittedVersion 40020
+Get 40140
+GetErasureEncode 157575
+main Get 170820
+GetLocal 13214
+GetGlobalHighestCommittedVersion 37864
+Get 37931
+GetErasureEncode 157473
+main Get 171271
+GetLocal 18660
+GetGlobalHighestCommittedVersion 32865
+Get 32944
+GetErasureEncode 157651
+main Get 176947
+GetLocal 12374
+GetGlobalHighestCommittedVersion 38983
+Get 39046
+GetErasureEncode 227810
+main Get 240769
+GetLocal 12986
+GetGlobalHighestCommittedVersion 39623
+Get 39912
+GetErasureEncode 158740
+main Get 172311
+GetLocal 13827
+GetGlobalHighestCommittedVersion 32374
+Get 33097
+GetErasureEncode 162634
+main Get 177012
+GetLocal 14693
+GetGlobalHighestCommittedVersion 45847
+Get 45921
+GetErasureEncode 168207
+main Get 183461
+GetLocal 14171
+GetGlobalHighestCommittedVersion 31760
+Get 31827
+GetErasureEncode 170127
+main Get 184685
+GetLocal 14538
+GetGlobalHighestCommittedVersion 46758
+Get 46820
+GetErasureEncode 169942
+main Get 184993
+GetLocal 12384
+GetGlobalHighestCommittedVersion 32068
+Get 32133
+GetErasureEncode 156789
+main Get 169744
+GetLocal 13697
+GetGlobalHighestCommittedVersion 39425
+Get 39662
+GetErasureEncode 158178
+main Get 172464
+GetLocal 13140
+GetGlobalHighestCommittedVersion 30573
+Get 30672
+GetErasureEncode 172715
+main Get 186418
+GetLocal 11852
+GetGlobalHighestCommittedVersion 33182
+Get 33465
+GetErasureEncode 156510
+main Get 168932
+GetLocal 19997
+GetGlobalHighestCommittedVersion 34064
+Get 34123
+GetErasureEncode 155687
+main Get 176206
+GetLocal 15104
+GetGlobalHighestCommittedVersion 33140
+Get 33207
+GetErasureEncode 160626
+main Get 176295
+GetLocal 15736
+GetGlobalHighestCommittedVersion 39115
+Get 39186
+GetErasureEncode 156628
+main Get 172802
+GetLocal 15300
+GetGlobalHighestCommittedVersion 47684
+Get 47760
+GetErasureEncode 171375
+main Get 187215
+GetLocal 14199
+GetGlobalHighestCommittedVersion 100238
+Get 100478
+GetErasureEncode 377601
+main Get 392391
+GetLocal 19064
+GetGlobalHighestCommittedVersion 42343
+Get 43137
+GetErasureEncode 392149
+main Get 411834
+GetLocal 14422
+GetGlobalHighestCommittedVersion 58830
+Get 58903
+GetErasureEncode 156140
+main Get 171145
+GetLocal 16066
+GetGlobalHighestCommittedVersion 34039
+Get 34103
+GetErasureEncode 156774
+main Get 173420
+GetLocal 19655
+GetGlobalHighestCommittedVersion 38604
+Get 39398
+GetErasureEncode 210145
+main Get 230463
+GetLocal 18987
+GetGlobalHighestCommittedVersion 40490
+Get 40557
+GetErasureEncode 307699
+main Get 327284
+GetLocal 14396
+GetGlobalHighestCommittedVersion 40852
+Get 40931
+GetErasureEncode 188577
+main Get 203595
+GetLocal 14177
+GetGlobalHighestCommittedVersion 38576
+Get 38653
+GetErasureEncode 157587
+main Get 172351
+GetLocal 11404
+GetGlobalHighestCommittedVersion 36996
+Get 37060
+GetErasureEncode 179195
+main Get 191187
+GetLocal 12470
+GetGlobalHighestCommittedVersion 41124
+Get 41775
+GetErasureEncode 160052
+main Get 173089
+GetLocal 12066
+GetGlobalHighestCommittedVersion 39936
+Get 40273
+GetErasureEncode 160101
+main Get 172743
+GetLocal 14606
+GetGlobalHighestCommittedVersion 39187
+Get 39672
+GetErasureEncode 159479
+main Get 174757
+GetLocal 38342
+GetGlobalHighestCommittedVersion 32134
+Get 32196
+GetErasureEncode 156685
+main Get 195625
+GetLocal 13830
+GetGlobalHighestCommittedVersion 39146
+Get 39213
+GetErasureEncode 157500
+main Get 171907
+GetLocal 13128
+GetGlobalHighestCommittedVersion 36044
+Get 37042
+GetErasureEncode 157197
+main Get 170868
+GetLocal 31379
+GetGlobalHighestCommittedVersion 39511
+Get 39581
+GetErasureEncode 201591
+main Get 233229
